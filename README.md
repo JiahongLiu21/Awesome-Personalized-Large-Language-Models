@@ -1,1 +1,1 @@
-# Awesome-Large-Language-Models-PLLMs-
+# Awesome Large Language Models (PLLMs)
