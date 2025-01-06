@@ -12,3 +12,9 @@ This repository focuses on personalized large language models (LLMs) that levera
 ## Personalized Adaptation
 
 ## Personalized Alignment
+
+## Benchmark
+|                      Paper Title                      |                     Affiliation                      | Published At |                                                                                                                                      Link                                                                                                                                      |
+| :---------------------------------------------------: | :--------------------------------------------------: | :----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| LaMP: When Large Language Models Meet Personalization | University of Massachusetts Amherst; Google Research |   arXiv'23   | [![Home](https://img.shields.io/badge/Home-red)](https://lamp-benchmark.github.io/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2304.11406) [![Github](https://img.shields.io/github/stars/LaMP-Benchmark/LaMP.svg?style=social&label=Github)](https://github.com/LaMP-Benchmark/LaMP) |
+
