@@ -1,6 +1,14 @@
-# Awesome Large Language Models (PLLMs)
+# Awesome Personalized Large Language Models (PLLMs)
 
 This repository focuses on personalized large language models (LLMs) that leverage user data to generate tailored responses based on individual user preferences.
+
+- **Awesome Personalized LLMs**
+  - [Personalized Prompting](#personalized-prompting)
+  - [Personalized Adaptation](#personalized-adaptation)
+  - [Personalized Alignment](#personalized-alignment)
+  - [Benchmark](#benchmark)
+
+---
 
 ## Personalized Prompting
 
