@@ -7,6 +7,8 @@ This repository focuses on personalized large language models (LLMs) that levera
   - [Personalized Adaptation](#personalized-adaptation)
   - [Personalized Alignment](#personalized-alignment)
   - [Benchmark](#benchmark)
+ 
+<img src="Figures/framwork.png" alt="Awesome Personalized LLMs" align="right" width="300">
 
 ---
 
