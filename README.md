@@ -18,6 +18,7 @@ This repository focuses on personalized large language models (LLMs) that levera
           <li><a href="#one-peft-per-users-one4one">One4One</a></li>
         </ul>
         <li><a href="#personalized-alignment">Personalized Alignment</a></li>
+        <li><a href="#analysis">Analysis</a></li>
         <li><a href="#benchmark">Benchmark</a></li>
       </ul>
     </td>
@@ -99,15 +100,26 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *Per-Pcs* | Personalized Pieces: Efficient Personalized Large Language Models through Collaborative Efforts |    EMNLP'24        | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.10471) [![Github](https://img.shields.io/github/stars/TamSiuhin/Per-Pcs.svg?style=social&label=Github)](https://github.com/TamSiuhin/Per-Pcs) |
 |   | Personalized Collaborative Fine-Tuning for LLMs |  COLM'24           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2404.09753) [![Github](https://img.shields.io/github/stars/epfml/personalized-collaborative-llms.svg?style=social&label=Github)](https://github.com/epfml/personalized-collaborative-llms) |
 |  *FDLoRA* | FDLoRA: Personalized Federated Learning of Large Language Model via Dual LoRA Tuning | Arxiv'24   |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.07925) |
+|  _HYDRA_ | HYDRA: Model Factorization Framework for Black-Box LLM Personalization | NeurIPS'24           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.02888) [![Github](https://img.shields.io/github/stars/night-chen/HYDRA.svg?style=social&label=Github)](https://github.com/night-chen/HYDRA) |
 
 
 
 ## Personalized Alignment
 
+## Analysis
+
+|  Keyword   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
+| :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Role of User Profile  | Understanding the Role of User Profile in the Personalization of Large Language Models |  Arxiv'24           | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.17803) [![Github](https://img.shields.io/github/stars/Bingo-W/Personalisation-in-LLM.svg?style=social&label=Github)](https://github.com/Bingo-W/Personalisation-in-LLM) |
+| RAG vs. PEFT  | Comparing Retrieval-Augmentation and Parameter-Efficient Fine-Tuning for Privacy-Preserving Personalization of Large Language Models |  Arxiv'24           | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2409.09510) |
+| Safety-Utility  | Exploring Safety-Utility Trade-Offs in Personalized Language Models |  Arxiv'24           | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.11107) |
+
+
 ## Benchmark
-|                      Paper Title                      |                     Affiliation                      | Published At |                                                                                                                                                         Link                                                                                                                                                         |
+|                      Name                     |                     Paper Title                      | Published At |                                                                                                                                                         Link                                                                                                                                                         |
 | :---------------------------------------------------: | :--------------------------------------------------: | :----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| LaMP: When Large Language Models Meet Personalization | University of Massachusetts Amherst; Google Research |   ACL'24   | [![Home](https://img.shields.io/badge/Home-red)](https://lamp-benchmark.github.io/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2304.11406) [![Github](https://img.shields.io/github/stars/LaMP-Benchmark/LaMP.svg?style=social&label=Github)](https://github.com/LaMP-Benchmark/LaMP) |
+| LaMP | LaMP: When Large Language Models Meet Personalization |  ACL'24   | [![Home](https://img.shields.io/badge/Home-red)](https://lamp-benchmark.github.io/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2304.11406) [![Github](https://img.shields.io/github/stars/LaMP-Benchmark/LaMP.svg?style=social&label=Github)](https://github.com/LaMP-Benchmark/LaMP) |
 | REGEN  | Beyond Retrieval: Generating Narratives in Conversational Recommender Systems |    Arxiv'24        | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.16780) |
 |  PEFT-U |       PEFT-U: Parameter-Efficient Fine-Tuning for User Personalization      |        Arxiv'24           |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2407.18078) [![Github](https://img.shields.io/github/stars/ChrisIsKing/Parameter-Efficient-Personalization.svg?style=social&label=Github)](https://github.com/ChrisIsKing/Parameter-Efficient-Personalization) |
+
 
