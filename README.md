@@ -8,9 +8,9 @@ This repository focuses on personalized large language models (LLMs) that levera
       <ul>
         <li><a href="#personalized-prompting">Personalized Prompting</a></li>
         <ul>
-          <li><a href="#profile-augmented-prompting">Profile-Augmented Prompting</a></li>
-          <li><a href="#retrieval-augmented-prompting">Retrieval-Augmented Prompting</a></li>
-          <li><a href="#soft-fused-prompting">Soft-Fused Prompting</a></li>
+          <li><a href="#profile-augmented-prompting-pag">Profile-Augmented</a></li>
+          <li><a href="#retrieval-augmented-prompting-rag">Retrieval-Augmented</a></li>
+          <li><a href="#soft-fused-prompting">Soft-Fused</a></li>
         </ul>
         <li><a href="#personalized-adaptation">Personalized Adaptation</a></li>
         <li><a href="#personalized-alignment">Personalized Alignment</a></li>
@@ -27,7 +27,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 
 ## Personalized Prompting
 
-### Profile-Augmented Prompting
+### Profile-Augmented Prompting (PAG)
 
 |  Method   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
 | :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -39,7 +39,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  _COS_ | CoS: Enhancing Personalization and Mitigating Bias with Context Steering |   Arxiv'24         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2405.01768) [![Github](https://img.shields.io/github/stars/sashrikap/context-steering.svg?style=social&label=Github)](https://github.com/sashrikap/context-steering) |
 
 
-### Retrieval-Augmented Prompting
+### Retrieval-Augmented Prompting (RAG)
 
 |  Method   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
 | :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -63,14 +63,18 @@ This repository focuses on personalized large language models (LLMs) that levera
 | :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | _UEM_  | User Embedding Model for Personalized Language Prompting |     PERSONALIZE@   ACL'24       |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2401.04858) |
 | _PERSOMA_  | PERSOMA: PERsonalized SOft ProMpt Adapter Architecture for Personalized Language Prompting |  GenAIRecP@  KDD'24          |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2408.00960)|
-| REGEN  | Beyond Retrieval: Generating Narratives in Conversational Recommender Systems |    Arxiv'24        | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.16780) |
-| PeaPOD  | Preference Distillation for Personalized Generative Recommendation |    Arxiv'24        |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2407.05033) [![Github](https://img.shields.io/github/stars/jeromeramos70/peapod.svg?style=social&label=Github)](https://github.com/jeromeramos70/peapod) |
-|  USER-LLM | |            |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206) [![Github](https://img.shields.io/github/stars/isi-nlp/RECAP.svg?style=social&label=Github)](https://github.com/isi-nlp/RECAP/tree/main) |
+| *REGEN*  | Beyond Retrieval: Generating Narratives in Conversational Recommender Systems |    Arxiv'24        | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.16780) |
+| *PeaPOD*  | Preference Distillation for Personalized Generative Recommendation |    Arxiv'24        |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2407.05033) [![Github](https://img.shields.io/github/stars/jeromeramos70/peapod.svg?style=social&label=Github)](https://github.com/jeromeramos70/peapod) |
+|  *User-LLM* | User-LLM: Efficient LLM Contextualization with User Embeddings |    Arxiv'24        |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2402.13598) |
+|  *RECAP*  | RECAP: Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation |      ACL'23       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206) [![Github](https://img.shields.io/github/stars/isi-nlp/RECAP.svg?style=social&label=Github)](https://github.com/isi-nlp/RECAP/tree/main)                     |
 | GSMN  | Personalized Response Generation via Generative Split Memory Network |     NAACL'21       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2021.naacl-main.157/) |
-|      |                   Personalized Dialogue Generation with Persona-Adaptive Attention                   |      AAAI'23      | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2210.15088) [![Github](https://img.shields.io/github/stars/hqsiswiliam/persona-adaptive-attention.svg?style=social&label=Github)](https://github.com/hqsiswiliam/persona-adaptive-attention) |
-|   | |            |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206) [![Github](https://img.shields.io/github/stars/isi-nlp/RECAP.svg?style=social&label=Github)](https://github.com/isi-nlp/RECAP/tree/main) |
 
 ## Personalized Adaptation
+
+|  Method   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
+| :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      |                   Personalized Dialogue Generation with Persona-Adaptive Attention                   |      AAAI'23      | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2210.15088) [![Github](https://img.shields.io/github/stars/hqsiswiliam/persona-adaptive-attention.svg?style=social&label=Github)](https://github.com/hqsiswiliam/persona-adaptive-attention) |
+|   | |            |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206) [![Github](https://img.shields.io/github/stars/isi-nlp/RECAP.svg?style=social&label=Github)](https://github.com/isi-nlp/RECAP/tree/main) |
 
 ## Personalized Alignment
 
