@@ -13,6 +13,10 @@ This repository focuses on personalized large language models (LLMs) that levera
           <li><a href="#soft-fused-prompting">Soft-Fused</a></li>
         </ul>
         <li><a href="#personalized-adaptation">Personalized Adaptation</a></li>
+        <ul>
+          <li><a href="#one-peft-all-users-one4all">One4All</a></li>
+          <li><a href="#one-peft-per-users-one4one">One4One</a></li>
+        </ul>
         <li><a href="#personalized-alignment">Personalized Alignment</a></li>
         <li><a href="#benchmark">Benchmark</a></li>
       </ul>
@@ -67,14 +71,23 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PeaPOD*  | Preference Distillation for Personalized Generative Recommendation |    Arxiv'24        |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2407.05033) [![Github](https://img.shields.io/github/stars/jeromeramos70/peapod.svg?style=social&label=Github)](https://github.com/jeromeramos70/peapod) |
 |  *User-LLM* | User-LLM: Efficient LLM Contextualization with User Embeddings |    Arxiv'24        |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2402.13598) |
 |  *RECAP*  | RECAP: Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation |      ACL'23       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206) [![Github](https://img.shields.io/github/stars/isi-nlp/RECAP.svg?style=social&label=Github)](https://github.com/isi-nlp/RECAP/tree/main)                     |
-| GSMN  | Personalized Response Generation via Generative Split Memory Network |     NAACL'21       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2021.naacl-main.157/) |
+| *GSMN*  | Personalized Response Generation via Generative Split Memory Network |     NAACL'21       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2021.naacl-main.157/) |
 
 ## Personalized Adaptation
 
+### One PEFT All Users (One4All)
+
 |  Method   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
 | :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  PEFT-U |       PEFT-U: Parameter-Efficient Fine-Tuning for User Personalization      |        Arxiv'24           |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2407.18078) [![Github](https://img.shields.io/github/stars/ChrisIsKing/Parameter-Efficient-Personalization.svg?style=social&label=Github)](https://github.com/ChrisIsKing/Parameter-Efficient-Personalization) |
+|  PLoRA | Personalized LoRA for Human-Centered Text Understanding |     AAAI'24          |                  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2403.06208) [![Github](https://img.shields.io/github/stars/yoyo-yun/PLoRA.svg?style=social&label=Github)](https://github.com/yoyo-yun/PLoRA) |
+| LM-P / CLS-P  | Personalized Large Language Models |           SENTIRE@   ICMD'24 |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2402.09269) |
+|  UserIdentifier | UserIdentifier: Implicit User Representations for Simple and Effective Personalized Sentiment Analysis |   FL4NLP @  ACL'22         |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2110.00135) |
+| Review-LLM  | Review-LLM: Harnessing Large Language Models for Personalized Review Generation |      Arxiv'24      |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206) [![Github](https://img.shields.io/github/stars/isi-nlp/RECAP.svg?style=social&label=Github)](https://github.com/isi-nlp/RECAP/tree/main) |
 |      |                   Personalized Dialogue Generation with Persona-Adaptive Attention                   |      AAAI'23      | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2210.15088) [![Github](https://img.shields.io/github/stars/hqsiswiliam/persona-adaptive-attention.svg?style=social&label=Github)](https://github.com/hqsiswiliam/persona-adaptive-attention) |
 |   | |            |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206) [![Github](https://img.shields.io/github/stars/isi-nlp/RECAP.svg?style=social&label=Github)](https://github.com/isi-nlp/RECAP/tree/main) |
+
+### One PEFT Per Users (One4One)
 
 ## Personalized Alignment
 
@@ -83,4 +96,5 @@ This repository focuses on personalized large language models (LLMs) that levera
 | :---------------------------------------------------: | :--------------------------------------------------: | :----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | LaMP: When Large Language Models Meet Personalization | University of Massachusetts Amherst; Google Research |   ACL'24   | [![Home](https://img.shields.io/badge/Home-red)](https://lamp-benchmark.github.io/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2304.11406) [![Github](https://img.shields.io/github/stars/LaMP-Benchmark/LaMP.svg?style=social&label=Github)](https://github.com/LaMP-Benchmark/LaMP) |
 | REGEN  | Beyond Retrieval: Generating Narratives in Conversational Recommender Systems |    Arxiv'24        | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.16780) |
+|  PEFT-U |       PEFT-U: Parameter-Efficient Fine-Tuning for User Personalization      |        Arxiv'24           |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2407.18078) [![Github](https://img.shields.io/github/stars/ChrisIsKing/Parameter-Efficient-Personalization.svg?style=social&label=Github)](https://github.com/ChrisIsKing/Parameter-Efficient-Personalization) |
 
