@@ -125,7 +125,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PER-CHAT*  | Personalized Response Generation via Generative Split Memory Network |     NAACL'21       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2021.naacl-main.157/) [![Github](https://img.shields.io/github/stars/Willyoung2017/PER-CHAT.svg?style=social&label=Github)](https://github.com/Willyoung2017/PER-CHAT)|
 | *REGEN*  | Beyond Retrieval: Generating Narratives in Conversational Recommender Systems |    Arxiv'24        | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.16780) |
 |  *PersonalLLM* |       PersonalLLM: Tailoring LLMs to Individual Preferences      |       Arxiv'24           |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2402.16288) |
-
+| *PGraphRAG* |  Personalized Graph-Based Retrieval for Large Language Models | Arxiv'25 |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.02157) [![Github](https://img.shields.io/github/stars/PGraphRAG-benchmark/PGraphRAG.svg?style=social&label=Github)](https://github.com/PGraphRAG-benchmark/PGraphRAG)| 
 
 
 
