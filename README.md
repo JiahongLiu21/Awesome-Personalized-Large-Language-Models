@@ -106,6 +106,31 @@ This repository focuses on personalized large language models (LLMs) that levera
 
 ## Personalized Alignment
 
+### Personaliziedd Alignment Data Construction
+|    Name     |                         Paper Title                          |     Published At     |                             Link                             |
+| :-----------: | :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: |
+|      | Aligning LLMs with Individual Preferences via Interaction | COLING'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.03642) [![Github](https://img.shields.io/github/stars/ShujinWu-0814/ALOE.svg?style=social&label=Github)](https://github.com/ShujinWu-0814/ALOE) |
+| PLUM | On the Way to LLM Personalization: Learning to Remember User Conversations | Arxiv'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2411.13405) |
+|      | Aligning to Thousands of Preferences via System Message Generalization | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2405.17977) [![Github](https://img.shields.io/github/stars/allenai/FineGrainedRLHF.svg?style=social&label=Github)](https://github.com/kaistAI/Janus) |
+|      | Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis | DAC'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2311.12275) |
+| PRISM | The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2404.16019) [![Github](https://img.shields.io/github/stars/HannahKirk/prism-alignment.svg?style=social&label=Github)](https://github.com/HannahKirk/prism-alignment) | 
+| PersonalLLM | PersonalLLM: Tailoring LLMs to Individual Preferences | Arxiv'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2409.20296) [![Github](https://img.shields.io/github/stars/HannahKirk/prism-alignment.svg?style=social&label=Github)](https://huggingface.co/datasets/namkoong-lab/PersonalLLM) |
+
+### Personaliziedd Alignment Optimization
+
+|    Method     |                         Paper Title                          |     Published At     |                             Link                             |
+| :-----------: | :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: |
+| *MORLHF* | Fine-Grained Human Feedback Gives Better Rewards for Language Model Training | NeurIPS'23 |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.01693) [![Github](https://img.shields.io/github/stars/allenai/FineGrainedRLHF.svg?style=social&label=Github)](https://github.com/allenai/FineGrainedRLHF)    |
+| *MODPO*  | Beyond One-Preference-Fits-All Alignment: Multi-Objective Direct Preference Optimization | ACL'24 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2310.03708) [![Github](https://img.shields.io/github/stars/ZHZisZZ/modpo.svg?style=social&label=Github)](https://github.com/ZHZisZZ/modpo) |
+| *Personalized Soups* | Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging | Arxiv'23 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2310.11564) [![Github](https://img.shields.io/github/stars/joeljang/RLPHF.svg?style=social&label=Github)](https://github.com/joeljang/RLPHF) |
+| *Reward Soups* | Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards | NuerIPS'23 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.04488) |
+| *MOD* | Decoding-Time Language Model Alignment with Multiple Objectives | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.18853) [![Github](https://img.shields.io/github/stars/srzer/MOD.svg?style=social&label=Github)](https://github.com/srzer/MOD) |
+| *PAD* | PAD: Personalized Alignment of LLMs at Decoding-Time | Arxiv'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.04070) |
+| *PPT* | Personalized Adaptation via In-Context Preference Learning | Arxiv'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.14001) |
+| *VPL* | Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2408.10075v1) [![Github](https://img.shields.io/github/stars/WEIRDLabUW/vpl_llm.svg?style=social&label=Github)](https://github.com/WEIRDLabUW/vpl_llm) |
+
+
+
 ## Analysis
 
 |  Keyword   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
