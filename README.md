@@ -18,6 +18,10 @@ This repository focuses on personalized large language models (LLMs) that levera
           <li><a href="#one-peft-per-users-one4one">One4One</a></li>
         </ul>
         <li><a href="#personalized-alignment">Personalized Alignment</a></li>
+        <ul>
+          <li><a href="#data-construction">Data</a></li>
+          <li><a href="#optimization">Optimization</a></li>
+        </ul>
         <li><a href="#analysis">Analysis</a></li>
         <li><a href="#benchmark">Benchmark</a></li>
       </ul>
@@ -106,7 +110,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 
 ## Personalized Alignment
 
-### Personaliziedd Alignment Data Construction
+### Data Construction
 |    Name     |                         Paper Title                          |     Published At     |                             Link                             |
 | :-----------: | :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: |
 |      | Aligning LLMs with Individual Preferences via Interaction | COLING'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.03642) [![Github](https://img.shields.io/github/stars/ShujinWu-0814/ALOE.svg?style=social&label=Github)](https://github.com/ShujinWu-0814/ALOE) |
@@ -116,7 +120,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PRISM* | The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2404.16019) [![Github](https://img.shields.io/github/stars/HannahKirk/prism-alignment.svg?style=social&label=Github)](https://github.com/HannahKirk/prism-alignment) | 
 | PersonalLLM | PersonalLLM: Tailoring LLMs to Individual Preferences | Arxiv'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2409.20296) [![Github](https://img.shields.io/github/stars/HannahKirk/prism-alignment.svg?style=social&label=Github)](https://huggingface.co/datasets/namkoong-lab/PersonalLLM) |
 
-### Personaliziedd Alignment Optimization
+### Optimization
 
 |    Method     |                         Paper Title                          |     Published At     |                             Link                             |
 | :-----------: | :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: |
