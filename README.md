@@ -1,6 +1,6 @@
 # Awesome Personalized Large Language Models (PLLMs)
 
-This repository focuses on personalized large language models (LLMs) that leverage user data to generate tailored responses based on individual user preferences. Our survey paper can be accessed on arXiv and We welcome any discussion and feedback! 
+This repository focuses on personalized large language models (LLMs) that leverage user data to generate tailored responses based on individual user preferences. Our survey paper can be accessed on arXiv and we welcome any discussion and feedback! 
 
 * **A Survey of Personalized Large Language Models: Progress and Future Directions** [https://arxiv.org/abs/2502.11528]
 
