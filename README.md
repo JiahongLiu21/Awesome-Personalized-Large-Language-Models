@@ -1,6 +1,8 @@
 # Awesome Personalized Large Language Models (PLLMs)
 
-This repository focuses on personalized large language models (LLMs) that leverage user data to generate tailored responses based on individual user preferences.
+This repository focuses on personalized large language models (LLMs) that leverage user data to generate tailored responses based on individual user preferences. Our survey paper can be accessed on arXiv and We welcome any discussion and feedback! 
+
+* **A Survey of Personalized Large Language Models: Progress and Future Directions** [https://arxiv.org/abs/2502.11528]
 
 <table style="width: 100%;">
   <tr>
@@ -158,8 +160,15 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PGraphRAG* |  Personalized Graph-Based Retrieval for Large Language Models | Arxiv'25 |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.02157) [![Github](https://img.shields.io/github/stars/PGraphRAG-benchmark/PGraphRAG.svg?style=social&label=Github)](https://github.com/PGraphRAG-benchmark/PGraphRAG)| 
 | *PrefEval*|Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs| ICLR'25 | [![Home](https://img.shields.io/badge/Home-red)](https://prefeval.github.io/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2502.09597) [![Github](https://img.shields.io/github/stars/amazon-science/PrefEval.svg?style=social&label=Github)](https://github.com/amazon-science/PrefEval)|
 
+# Citation
 
-
-
+```bibtex
+@article{liu2025survey,
+  title={A Survey of Personalized Large Language Models: Progress and Future Directions},
+  author={Liu, Jiahong and Qiu, Zexuan and Li, Zhongyang and Dai, Quanyu and Zhu, Jieming and Hu, Minda and Yang, Menglin and King, Irwin},
+  journal={arXiv preprint arXiv:2502.11528},
+  year={2025}
+}
+```
 
 
