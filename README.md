@@ -1,4 +1,11 @@
 # Awesome Personalized Large Language Models (PLLMs)
+[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2502.11528)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/JiahongLiu21/Awesome-Personalized-Large-Language-Models)
+![](https://img.shields.io/github/last-commit/JiahongLiu21/Awesome-Personalized-Large-Language-Models) 
+![](https://img.shields.io/badge/PRs-Welcome-red)
+<img src="https://badges.pufler.dev/visits/jiahongliu21/Awesome-Personalized-Large-Language-Models?style=flat-square&logo=github">
+![](https://img.shields.io/github/stars/JiahongLiu21/Awesome-Personalized-Large-Language-Models?color=yellow)
+![](https://img.shields.io/github/forks/JiahongLiu21/Awesome-Personalized-Large-Language-Models?color=lightblue)
 
 This repository focuses on personalized large language models (LLMs) that leverage user data to generate tailored responses based on individual user preferences. Our survey paper can be accessed on arXiv and we welcome any discussion and feedback! 
 
