@@ -54,6 +54,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *ONCE*  | ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models |      WSDM'24       |                     [![Paper](https://img.shields.io/badge/Paper-blue)]([https://arxiv.org/abs/2306.07206](https://arxiv.org/abs/2305.06566)) [![Github](https://img.shields.io/github/stars/Jyonn/ONCE.svg?style=social&label=Github)](https://github.com/Jyonn/ONCE) |
 |  *Matryoshka* | Matryoshka: Learning to Drive Black-Box LLMs with LLMs |     Arxiv'24       | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.20749) [![Github](https://img.shields.io/github/stars/lichangh20/Matryoshka.svg?style=social&label=Github)](https://github.com/lichangh20/Matryoshka) |
 |  *RewriterSlRl* | Learning to Rewrite Prompts for Personalized Text Generation |    WWW '24   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2310.00152)  |
+|  _DPL_ | Measuring What Makes You Unique: Difference-Aware User Modeling for Enhancing LLM Personalization |   Arxiv'25         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.02450) [![Github](https://img.shields.io/github/stars/SnowCharmQ/DPL.svg?style=social&label=Github)](https://github.com/SnowCharmQ/DPL) |
 |  _COS_ | CoS: Enhancing Personalization and Mitigating Bias with Context Steering |   Arxiv'24         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2405.01768) [![Github](https://img.shields.io/github/stars/sashrikap/context-steering.svg?style=social&label=Github)](https://github.com/sashrikap/context-steering) |
 
 
@@ -84,6 +85,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *REGEN*  | Beyond Retrieval: Generating Narratives in Conversational Recommender Systems |    Arxiv'24        | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.16780) |
 | *PeaPOD*  | Preference Distillation for Personalized Generative Recommendation |    Arxiv'24        |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2407.05033) [![Github](https://img.shields.io/github/stars/jeromeramos70/peapod.svg?style=social&label=Github)](https://github.com/jeromeramos70/peapod) |
 | *PPlug*  | LLMs + Persona-Plug = Personalized LLMs |     Arxiv'24       |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2409.11901/) |
+| *ComMer*  | ComMer: a Framework for Compressing and Merging User Data for Personalization  |     Arxiv'25       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.03276) |
 |  *User-LLM* | User-LLM: Efficient LLM Contextualization with User Embeddings |    Arxiv'24        |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2402.13598) |
 |  *RECAP*  | RECAP: Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation |      ACL'23       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206) [![Github](https://img.shields.io/github/stars/isi-nlp/RECAP.svg?style=social&label=Github)](https://github.com/isi-nlp/RECAP/tree/main)                     |
 | *GSMN*  | Personalized Response Generation via Generative Split Memory Network |     NAACL'21       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2021.naacl-main.157/) |
@@ -100,6 +102,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  UserIdentifier | UserIdentifier: Implicit User Representations for Simple and Effective Personalized Sentiment Analysis |   FL4NLP @  ACL'22         |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2110.00135) |
 | *Review-LLM*  | Review-LLM: Harnessing Large Language Models for Personalized Review Generation |      Arxiv'24      |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206)  |
 |  *MiLP* | Personalized LLM Response Generation with Parameterized Memory Injection |        Arxiv'24    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2404.03565) [![Github](https://img.shields.io/github/stars/MatthewKKai/MiLP.svg?style=social&label=Github)](https://github.com/MatthewKKai/MiLP) |
+|  *PROPER* | PROPER: A Progressive Learning Framework for Personalized Large Language Models with Group-Level Adaptation  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01303) |
 
 
 ### One PEFT Per Users (One4One)
@@ -142,6 +145,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PAD* | PAD: Personalized Alignment of LLMs at Decoding-Time | Arxiv'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.04070) |
 | *PPT* | Personalized Adaptation via In-Context Preference Learning | Arxiv'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.14001) |
 | *VPL* | Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2408.10075v1) [![Github](https://img.shields.io/github/stars/WEIRDLabUW/vpl_llm.svg?style=social&label=Github)](https://github.com/WEIRDLabUW/vpl_llm) |
+| *REST-PG* | Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.04167) |
 
 
 
