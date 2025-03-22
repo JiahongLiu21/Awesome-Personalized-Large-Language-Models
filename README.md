@@ -158,6 +158,12 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *RAG vs. PEFT*  | Comparing Retrieval-Augmentation and Parameter-Efficient Fine-Tuning for Privacy-Preserving Personalization of Large Language Models |  Arxiv'24           | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2409.09510) |
 | *Safety-Utility*  | Exploring Safety-Utility Trade-Offs in Personalized Language Models |  Arxiv'24           | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.11107) |
 
+## Metric
+
+|                      Name                     |                     Paper Title                      | Published At |                                                                                                                                                         Link                                                                                                                                                         |
+| :---------------------------------------------------: | :--------------------------------------------------: | :----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| *PerSEval* | PerSEval: Assessing Personalization in Text Summarizers |  TMLR'24   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2407.00453) [![Github](https://img.shields.io/github/stars/KDM-LAB/Perseval-TMLR.svg?style=social&label=Github)](https://github.com/KDM-LAB/Perseval-TMLR) |
+
 
 ## Benchmark
 |                      Name                     |                     Paper Title                      | Published At |                                                                                                                                                         Link                                                                                                                                                         |
