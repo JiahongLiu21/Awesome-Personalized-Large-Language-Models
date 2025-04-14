@@ -185,7 +185,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *LongMemEval*| LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory | ICLR'25 | [![Home](https://img.shields.io/badge/Home-red)](https://xiaowu0162.github.io/long-mem-eval/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.10813) [![Github](https://img.shields.io/github/stars/xiaowu0162/LongMemEval.svg?style=social&label=Github)](https://github.com/xiaowu0162/LongMemEval)|
 | *PersonalWAB*| Large Language Models Empowered Personalized Web Agents | WWW'25 | [![Home](https://img.shields.io/badge/Home-red)](https://hongrucai.github.io/PersonalWAB/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.17236) [![Github](https://img.shields.io/github/stars/HongruCai/PersonalWAB.svg?style=social&label=Github)](https://github.com/HongruCai/PersonalWAB)|
 | *IMPLEXCONV*| Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2503.07018) |
-
+| *UQABench* | UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering | Arxiv'25 | [![Home](https://img.shields.io/badge/Home-red)](https://www.kaggle.com/datasets/liulangmingliu/uqabench) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2502.19178) [![Github](https://img.shields.io/github/stars/HongruCai/PersonalWAB.svg?style=social&label=Github)](https://github.com/OpenStellarTeam/UQABench) |
 # Citation
 
 ```bibtex
