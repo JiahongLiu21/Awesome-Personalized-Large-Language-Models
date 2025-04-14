@@ -56,6 +56,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *RewriterSlRl* | Learning to Rewrite Prompts for Personalized Text Generation |    WWW '24   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2310.00152)  |
 |  _DPL_ | Measuring What Makes You Unique: Difference-Aware User Modeling for Enhancing LLM Personalization |   Arxiv'25         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.02450) [![Github](https://img.shields.io/github/stars/SnowCharmQ/DPL.svg?style=social&label=Github)](https://github.com/SnowCharmQ/DPL) |
 |  _CoS_ | CoS: Enhancing Personalization and Mitigating Bias with Context Steering |   ICLR'25         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2405.01768) [![Github](https://img.shields.io/github/stars/sashrikap/context-steering.svg?style=social&label=Github)](https://github.com/sashrikap/context-steering) |
+| *StyleVector* | Personalized Text Generation with Contrastive Activation Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.05213) |
 
 
 ### Retrieval-Augmented Prompting (RAG)
@@ -148,7 +149,6 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PPT* | Personalized Adaptation via In-Context Preference Learning | Arxiv'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.14001) |
 | *VPL* | Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2408.10075v1) [![Github](https://img.shields.io/github/stars/WEIRDLabUW/vpl_llm.svg?style=social&label=Github)](https://github.com/WEIRDLabUW/vpl_llm) |
 | *CHAMELEON* | Personalize Your LLM: Fake it then Align it | NAACL'25 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01048) |
-| *StyleVector* | Personalized Text Generation with Contrastive Activation Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.05213) |
 | *REST-PG* | Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.04167) |
 
 
