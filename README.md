@@ -150,6 +150,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *VPL* | Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2408.10075v1) [![Github](https://img.shields.io/github/stars/WEIRDLabUW/vpl_llm.svg?style=social&label=Github)](https://github.com/WEIRDLabUW/vpl_llm) |
 | *CHAMELEON* | Personalize Your LLM: Fake it then Align it | NAACL'25 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01048) |
 | *REST-PG* | Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.04167) |
+| *Drift* | Drift: Decoding-time Personalized Alignments with Implicit User Preferences | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2502.14289) |
 
 
 
@@ -186,6 +187,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PersonalWAB*| Large Language Models Empowered Personalized Web Agents | WWW'25 | [![Home](https://img.shields.io/badge/Home-red)](https://hongrucai.github.io/PersonalWAB/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.17236) [![Github](https://img.shields.io/github/stars/HongruCai/PersonalWAB.svg?style=social&label=Github)](https://github.com/HongruCai/PersonalWAB)|
 | *IMPLEXCONV*| Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2503.07018) |
 | *UQABench* | UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering | Arxiv'25 | [![Home](https://img.shields.io/badge/Home-red)](https://www.kaggle.com/datasets/liulangmingliu/uqabench) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2502.19178) [![Github](https://img.shields.io/github/stars/HongruCai/PersonalWAB.svg?style=social&label=Github)](https://github.com/OpenStellarTeam/UQABench) |
+
 # Citation
 
 ```bibtex
