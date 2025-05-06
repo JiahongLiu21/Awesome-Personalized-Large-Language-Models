@@ -157,6 +157,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *REST-PG* | Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.04167) |
 | *Drift* | Drift: Decoding-time Personalized Alignments with Implicit User Preferences | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2502.14289) |
 | *PAD* | PAD: Personalized Alignment of LLMs at Decoding-Time | ICLR'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.04070) [![Github](https://img.shields.io/github/stars/zjuruizhechen/PAD.svg?style=social&label=Github)](https://github.com/zjuruizhechen/PAD) |
+| *Amulet* | Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs | ICLR'25 | [![Home](https://img.shields.io/badge/Home-red)](https://zowiezhang.github.io/projects/Amulet/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2502.19148) [![Github](https://img.shields.io/github/stars/zowiezhang/Amulet.svg?style=social&label=Github)](https://github.com/zowiezhang/Amulet) |
 
 
 
