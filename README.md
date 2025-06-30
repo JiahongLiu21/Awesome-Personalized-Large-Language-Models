@@ -113,7 +113,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *LM-P / CLS-P*  | Personalized Large Language Models |           SENTIRE@   ICDM'24 |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2402.09269) |
 | *Review-LLM*  | Review-LLM: Harnessing Large Language Models for Personalized Review Generation |      Arxiv'24      |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206)  |
 |  *MiLP* | Personalized LLM Response Generation with Parameterized Memory Injection |        Arxiv'24    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2404.03565) [![Github](https://img.shields.io/github/stars/MatthewKKai/MiLP.svg?style=social&label=Github)](https://github.com/MatthewKKai/MiLP) |
-|  *PROPER* | PROPER: A Progressive Learning Framework for Personalized Large Language Models with Group-Level Adaptation  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01303) |
+
 
 
 ### One PEFT Per Users (One4One)
@@ -129,6 +129,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |   | Personalized Collaborative Fine-Tuning for LLMs |  COLM'24           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2404.09753) [![Github](https://img.shields.io/github/stars/epfml/personalized-collaborative-llms.svg?style=social&label=Github)](https://github.com/epfml/personalized-collaborative-llms) |
 |  *FDLoRA* | FDLoRA: Personalized Federated Learning of Large Language Model via Dual LoRA Tuning | Arxiv'24   |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.07925) |
 |  _HYDRA_ | HYDRA: Model Factorization Framework for Black-Box LLM Personalization | NeurIPS'24           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.02888) [![Github](https://img.shields.io/github/stars/night-chen/HYDRA.svg?style=social&label=Github)](https://github.com/night-chen/HYDRA) |
+|  *PROPER* | PROPER: A Progressive Learning Framework for Personalized Large Language Models with Group-Level Adaptation  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01303) |
 
 
 
