@@ -20,6 +20,7 @@ This repository focuses on personalized large language models (LLMs) that levera
           <li><a href="#profile-augmented-prompting-pag">Profile-Augmented</a></li>
           <li><a href="#retrieval-augmented-prompting-rag">Retrieval-Augmented</a></li>
           <li><a href="#soft-fused-prompting">Soft-Fused</a></li>
+          <li><a href="#contrastive-prompting">Contrastive</a></li>
         </ul>
         <li><a href="#personalized-adaptation">Personalized Adaptation</a></li>
         <ul>
@@ -55,8 +56,6 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *Matryoshka* | Matryoshka: Learning to Drive Black-Box LLMs with LLMs |     Arxiv'24       | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.20749) [![Github](https://img.shields.io/github/stars/lichangh20/Matryoshka.svg?style=social&label=Github)](https://github.com/lichangh20/Matryoshka) |
 |  *RewriterSlRl* | Learning to Rewrite Prompts for Personalized Text Generation |    WWW '24   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2310.00152)  |
 |  _DPL_ | Measuring What Makes You Unique: Difference-Aware User Modeling for Enhancing LLM Personalization |   ACL'25 Findings         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.02450) [![Github](https://img.shields.io/github/stars/SnowCharmQ/DPL.svg?style=social&label=Github)](https://github.com/SnowCharmQ/DPL) |
-|  _CoS_ | CoS: Enhancing Personalization and Mitigating Bias with Context Steering |   ICLR'25         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2405.01768) [![Github](https://img.shields.io/github/stars/sashrikap/context-steering.svg?style=social&label=Github)](https://github.com/sashrikap/context-steering) |
-| *StyleVector* | Personalized Text Generation with Contrastive Activation Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.05213) |
 | *R2P* |      Reasoning Meets Personalization: Unleashing the Potential of Large Reasoning Model for Personalized Generation      | Arxiv'25 |                        [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2505.17571)             |
 
 
@@ -99,6 +98,13 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *User-LLM* | User-LLM: Efficient LLM Contextualization with User Embeddings |    Arxiv'24        |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2402.13598) |
 | *ComMer*  | ComMer: a Framework for Compressing and Merging User Data for Personalization  |     Arxiv'25       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.03276) |
 
+### Contrastive Prompting
+
+|  Method   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
+| :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  _CoS_ | CoS: Enhancing Personalization and Mitigating Bias with Context Steering |   ICLR'25         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2405.01768) [![Github](https://img.shields.io/github/stars/sashrikap/context-steering.svg?style=social&label=Github)](https://github.com/sashrikap/context-steering) |
+| *StyleVector* | Personalized Text Generation with Contrastive Activation Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.05213) |
+| *CoSteer* | CoSteer: Collaborative Decoding-Time Personalization via Local Delta Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04756) |
 
 
 ## Personalized Adaptation
