@@ -83,6 +83,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | _AP-Bots_  | Improving RAG for Personalization with Author Features and Contrastive Examples | Arxiv'25           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.18678) [![Github](https://img.shields.io/github/stars/myazann/AP-Bots.svg?style=social&label=Github)](https://github.com/myazann/AP-Bots) |
 | _FERMI_  | Few-shot Personalization of LLMs with Mis-aligned Responses | NAACL'25           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.arxiv.org/abs/2504.08745) [![Github](https://img.shields.io/github/stars/bbuing9/Fermi.svg?style=social&label=Github)](https://github.com/bbuing9/Fermi) |
 | _RPM_  | LLMs Think, But Not In Your Flow: Reasoning-Level Personalization for Black-Box Large Language Models | Arxiv'25           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2505.21082)|
+| _PRIME_  | Large Language Model Personalization with Cognitive Memory and Thought Processes | Arxiv'25           |         [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2507.04607) |
 
 
 ### Soft-Fused Prompting
