@@ -34,6 +34,7 @@ This repository focuses on personalized large language models (LLMs) that levera
         </ul>
         <li><a href="#analysis">Analysis</a></li>
         <li><a href="#benchmark">Benchmark</a></li>
+        <li><a href="#applications">Applications</a></li>
       </ul>
     </td>
     <td>
@@ -215,6 +216,13 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *DPL* | Measuring What Makes You Unique: Difference-Aware User Modeling for Enhancing LLM Personalization | ACL'25 Findings | [![Hugging Face Model Hub](https://img.shields.io/badge/Hugging%20Face-Model%20Hub-%23D50032)](https://huggingface.co/datasets/SnowCharmQ/DPL-main) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.02450) [![Github](https://img.shields.io/github/stars/SnowCharmQ/DPL.svg?style=social&label=Github)](https://github.com/SnowCharmQ/DPL) |
 | *REALTALK* | REALTALK: A 21-Day Real-World Dataset for Long-Term Conversation | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2502.13270) [![Github](https://img.shields.io/github/stars/danny911kr/REALTALK.svg?style=social&label=Github)](https://github.com/danny911kr/REALTALK) |
 | *MemBench* | MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents | ACL'25 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2506.21605) [![Github](https://img.shields.io/github/stars/import-myself/Membench.svg?style=social&label=Github)](https://github.com/import-myself/Membench) |
+
+## Applications
+### Education
+|                      Name                     |                     Paper Title                      | Published At |                                                                                                                                                         Link                                                                                                                                                         |
+| :---------------------------------------------------: | :--------------------------------------------------: | :----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| *LearnLens*  | LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop |     Arxiv'25       |         [![Home](https://img.shields.io/badge/Home-red)](https://learnlens.co.uk/login)    [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCUALVwDKNQ)    [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04295) |
+
 
 # Citation
 
