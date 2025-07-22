@@ -193,7 +193,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | :---------------------------------------------------: | :--------------------------------------------------: | :----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | *EGISES* | Accuracy is Not Enough: Evaluating Personalization in Summarizers |  EMNLP'23 Findings  | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2407.00453) |
 | *PerSEval* | PerSEval: Assessing Personalization in Text Summarizers |  TMLR'24   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2407.00453) [![Github](https://img.shields.io/github/stars/KDM-LAB/Perseval-TMLR.svg?style=social&label=Github)](https://github.com/KDM-LAB/Perseval-TMLR) |
-| *ExPerT* | ExPerT: Effective and Explainable Evaluation of Personalized Long-Form Text Generation |  Arxiv'25   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.14956) [![Github](https://img.shields.io/github/stars/alirezasalemi7/ExPerT.svg?style=social&label=Github)](https://github.com/alirezasalemi7/ExPerT) |
+| *ExPerT* | ExPerT: Effective and Explainable Evaluation of Personalized Long-Form Text Generation |  ACL'25 Findings   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.14956) [![Github](https://img.shields.io/github/stars/alirezasalemi7/ExPerT.svg?style=social&label=Github)](https://github.com/alirezasalemi7/ExPerT) |
 
 
 ## Benchmark
