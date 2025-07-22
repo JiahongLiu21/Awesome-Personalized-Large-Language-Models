@@ -140,6 +140,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  _HYDRA_ | HYDRA: Model Factorization Framework for Black-Box LLM Personalization | NeurIPS'24           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.02888) [![Github](https://img.shields.io/github/stars/night-chen/HYDRA.svg?style=social&label=Github)](https://github.com/night-chen/HYDRA) |
 |  *PROPER* | PROPER: A Progressive Learning Framework for Personalized Large Language Models with Group-Level Adaptation  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01303) |
 |  *HomeLLaMA* | Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.08878) |
+|  *MobiEdit* | MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.arxiv.org/pdf/2506.13772) |
 
 
 
