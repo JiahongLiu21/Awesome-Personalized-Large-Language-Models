@@ -223,19 +223,20 @@ This repository focuses on personalized large language models (LLMs) that levera
 
 ## Applications
 
-| Name        | Paper Title | Published At | Link | Domain |
-|-------------|-------------|--------------|------|--------|
+|     Name    | Paper Title | Published At | Link | Domain |
+|:-------------:|:-------------:|:--------------:|:------:|:--------:|
 | *HumSum* | HumSum: A Personalized Lecture Summarization Tool for Humanities Students Using LLMs | ACL Workshop'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2024.personalize-1.4.pdf) | Humanity |
 | *LearnLens* | LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop | Arxiv'25 | [![Home](https://img.shields.io/badge/Home-red)](https://learnlens.co.uk/login) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCUALVwDKNQ) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04295) | Education |
 
 ## Related Workshops
 
-| Workshop Name | Conference/Series | Link |
-|--------------|-------------------|------|
-| The 1st Workshop on Personalization of Generative AI Systems | ACL'24 | [![Home](https://img.shields.io/badge/Home-red)](https://aclanthology.org/volumes/2024.personalize-1/) |
-| The 3rd Workshop on Personal Intelligence with Generative AI | WWW'25 | [![Home](https://img.shields.io/badge/Home-red)](https://generative-rec.github.io/workshop-www25/) |
-| LLM4Good: Sustainable & Trustworthy LLMs for Personalization | ACM UMAP '25 | [![Home](https://img.shields.io/badge/Home-red)](https://recsys-lab.at/llm4good/) |
-| P13N: Personalization in Generative AI Workshop | ICCV'25 | [![Home](https://img.shields.io/badge/Home-red)](https://p13n-workshop.github.io/) |
+
+| Workshop Name                                         | Conference/Series | Link                                                                 |
+|:-------------------------------------------------------:|:-------------------:|:----------------------------------------------------------------------:|
+| The 1st Workshop on Personalization of Generative AI Systems | ACL'24           | [![Home](https://img.shields.io/badge/Home-red)](https://aclanthology.org/volumes/2024.personalize-1/)         |
+| The 3rd Workshop on Personal Intelligence with Generative AI | WWW'25           | [![Home](https://img.shields.io/badge/Home-red)](https://generative-rec.github.io/workshop-www25/)             |
+| LLM4Good: Sustainable & Trustworthy LLMs for Personalization | ACM UMAP'25     | [![Home](https://img.shields.io/badge/Home-red)](https://recsys-lab.at/llm4good/)                              |
+| P13N: Personalization in Generative AI Workshop        | ICCV'25           | [![Home](https://img.shields.io/badge/Home-red)](https://p13n-workshop.github.io/)                             |
 
 # Citation
 
