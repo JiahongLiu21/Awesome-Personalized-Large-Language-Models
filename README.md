@@ -222,10 +222,10 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *MemBench* | MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents | ACL'25 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2506.21605) [![Github](https://img.shields.io/github/stars/import-myself/Membench.svg?style=social&label=Github)](https://github.com/import-myself/Membench) |
 
 ## Applications
-### Education
-|                      Name                     |                     Paper Title                      | Published At |                                                                                                                                                         Link                                                                                                                                                         |
-| :---------------------------------------------------: | :--------------------------------------------------: | :----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| *LearnLens*  | LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop |     Arxiv'25       |         [![Home](https://img.shields.io/badge/Home-red)](https://learnlens.co.uk/login)    [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCUALVwDKNQ)    [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04295) |
+
+| Name        | Paper Title | Published At | Link | Domain |
+|-------------|-------------|--------------|------|--------|
+| *LearnLens* | LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop | Arxiv'25 | [![Home](https://img.shields.io/badge/Home-red)](https://learnlens.co.uk/login) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCUALVwDKNQ) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04295) | Education |
 
 
 # Citation
