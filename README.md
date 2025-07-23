@@ -227,6 +227,8 @@ This repository focuses on personalized large language models (LLMs) that levera
 |-------------|-------------|--------------|------|--------|
 | *LearnLens* | LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop | Arxiv'25 | [![Home](https://img.shields.io/badge/Home-red)](https://learnlens.co.uk/login) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCUALVwDKNQ) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04295) | Education |
 
+| *HumSum* | HumSum: A Personalized Lecture Summarization Tool for Humanities Students Using LLMs | ACL Workshop'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2024.personalize-1.4.pdf) | Humanity |
+
 
 # Citation
 
