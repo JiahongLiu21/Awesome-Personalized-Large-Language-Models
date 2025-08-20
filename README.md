@@ -234,6 +234,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 
 | Workshop Name                                         | Conference/Series | Link                                                                 |
 |:-------------------------------------------------------:|:-------------------:|:----------------------------------------------------------------------:|
+| The First Workshop on Personalized Generative AI @ CIKM 2023: Personalization Meets Large Language Models. | CIKM'23           | [![Home](https://img.shields.io/badge/Home-red)](https://sites.google.com/view/pgai2023/home)         |
 | The 1st Workshop on Personalization of Generative AI Systems | ACL'24           | [![Home](https://img.shields.io/badge/Home-red)](https://aclanthology.org/volumes/2024.personalize-1/)         |
 | The 3rd Workshop on Personal Intelligence with Generative AI | WWW'25           | [![Home](https://img.shields.io/badge/Home-red)](https://generative-rec.github.io/workshop-www25/)             |
 | LLM4Good: Sustainable & Trustworthy LLMs for Personalization | ACM UMAP'25     | [![Home](https://img.shields.io/badge/Home-red)](https://recsys-lab.at/llm4good/)                              |
