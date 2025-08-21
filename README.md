@@ -97,9 +97,10 @@ This repository focuses on personalized large language models (LLMs) that levera
 | _PERSOMA_  | PERSOMA: PERsonalized SOft ProMpt Adapter Architecture for Personalized Language Prompting |  GenAIRecP@  KDD'24          |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2408.00960)|
 | *REGEN*  | Beyond Retrieval: Generating Narratives in Conversational Recommender Systems |    Arxiv'24        | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.16780) |
 | *PeaPOD*  | Preference Distillation for Personalized Generative Recommendation |    Arxiv'24        |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2407.05033) [![Github](https://img.shields.io/github/stars/jeromeramos70/peapod.svg?style=social&label=Github)](https://github.com/jeromeramos70/peapod) |
-| *PPlug*  | LLMs + Persona-Plug = Personalized LLMs |     ACL'25       |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2409.11901) [![Github](https://img.shields.io/github/stars/rucliujn/PPlug.svg?style=social&label=Github)](https://github.com/rucliujn/PPlug) |
 |  *User-LLM* | User-LLM: Efficient LLM Contextualization with User Embeddings |    Arxiv'24        |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2402.13598) |
 | *ComMer*  | ComMer: a Framework for Compressing and Merging User Data for Personalization  |     Arxiv'25       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.03276) |
+| *PPlug*  | LLMs + Persona-Plug = Personalized LLMs |     ACL'25       |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2409.11901) [![Github](https://img.shields.io/github/stars/rucliujn/PPlug.svg?style=social&label=Github)](https://github.com/rucliujn/PPlug) |
+| *DEP*  | Latent Inter-User Difference Modeling for LLM Personalization |     EMNLP'25       |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.20849) [![Github](https://img.shields.io/github/stars/SnowCharmQ/DEP.svg?style=social&label=Github)](https://github.com/SnowCharmQ/DEP) |
 
 ### Contrastive Prompting
 
