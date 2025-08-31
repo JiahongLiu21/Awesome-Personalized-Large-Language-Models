@@ -177,6 +177,8 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *Amulet* | Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs | ICLR'25 | [![Home](https://img.shields.io/badge/Home-red)](https://zowiezhang.github.io/projects/Amulet/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2502.19148) [![Github](https://img.shields.io/github/stars/zowiezhang/Amulet.svg?style=social&label=Github)](https://github.com/zowiezhang/Amulet) |
 | *RLPA* | Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2505.15456) |
 | *PROSE* | Aligning LLMs by Predicting Preferences from User Writing Samples | ICML'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2505.23815) |
+| *DEEPER* | DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling | ACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2025.acl-long.1177.pdf)[![Github](https://img.shields.io/github/stars/sheep333c/DEEPER.svg?style=social&label=Github)](https://github.com/sheep333c/DEEPER) |
+
 
 
 
