@@ -170,6 +170,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PPT* | Personalized Adaptation via In-Context Preference Learning | Arxiv'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.14001) |
 | *VPL* | Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2408.10075v1) [![Github](https://img.shields.io/github/stars/WEIRDLabUW/vpl_llm.svg?style=social&label=Github)](https://github.com/WEIRDLabUW/vpl_llm) |
 | *CIPHER* | Aligning LLM Agents by Learning Latent Preference from User Edits | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2404.15269) [![Github](https://img.shields.io/github/stars/gao-g/prelude.svg?style=social&label=Github)](https://github.com/gao-g/prelude) |
+| *VPL* | Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning | NeurIPS'24 (Spotlight) | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2408.10075) |
 | *CHAMELEON* | Personalize Your LLM: Fake it then Align it | NAACL'25 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01048) |
 | *REST-PG* | Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.04167) |
 | *Drift* | Drift: Decoding-time Personalized Alignments with Implicit User Preferences | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2502.14289) |
@@ -178,6 +179,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *RLPA* | Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2505.15456) |
 | *PROSE* | Aligning LLMs by Predicting Preferences from User Writing Samples | ICML'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2505.23815) |
 | *DEEPER* | DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling | ACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2025.acl-long.1177.pdf)[![Github](https://img.shields.io/github/stars/sheep333c/DEEPER.svg?style=social&label=Github)](https://github.com/sheep333c/DEEPER) |
+
 
 
 
