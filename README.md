@@ -244,6 +244,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | The 3rd Workshop on Personal Intelligence with Generative AI | WWW'25           | [![Home](https://img.shields.io/badge/Home-red)](https://generative-rec.github.io/workshop-www25/)             |
 | LLM4Good: Sustainable & Trustworthy LLMs for Personalization | ACM UMAP'25     | [![Home](https://img.shields.io/badge/Home-red)](https://recsys-lab.at/llm4good/)                              |
 | P13N: Personalization in Generative AI Workshop        | ICCV'25           | [![Home](https://img.shields.io/badge/Home-red)](https://p13n-workshop.github.io/)                             |
+| PerFM: Personalization in the Era of Large Foundation Models        | AAAI'26           | [![Home](https://personalizedllm.github.io/events/perfm-aaai26/)                             |
 
 # Citation
 
