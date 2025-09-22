@@ -101,6 +101,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *ComMer*  | ComMer: a Framework for Compressing and Merging User Data for Personalization  |     Arxiv'25       |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.03276) |
 | *PPlug*  | LLMs + Persona-Plug = Personalized LLMs |     ACL'25       |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2409.11901) [![Github](https://img.shields.io/github/stars/rucliujn/PPlug.svg?style=social&label=Github)](https://github.com/rucliujn/PPlug) |
 | *DEP*  | Latent Inter-User Difference Modeling for LLM Personalization |     EMNLP'25       |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.20849) [![Github](https://img.shields.io/github/stars/SnowCharmQ/DEP.svg?style=social&label=Github)](https://github.com/SnowCharmQ/DEP) |
+|  *CBP-Tuning* | CBP-Tuning: Efficient Local Customization for Black-box Large Language Models  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2509.12112) |
 
 ### Contrastive Prompting
 
@@ -142,7 +143,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *PROPER* | PROPER: A Progressive Learning Framework for Personalized Large Language Models with Group-Level Adaptation  |      ACL'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01303) |
 |  *HomeLLaMA* | Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.08878) |
 |  *MobiEdit* | MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.arxiv.org/abs/2506.13772) |
-|  *CBP-Tuning* | CBP-Tuning: Efficient Local Customization for Black-box Large Language Models  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2509.12112) |
+
 
 
 
