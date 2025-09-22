@@ -78,7 +78,6 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *ROPG / RSPG*| Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation |  SIGIR'24          |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2404.05970) [![Github](https://img.shields.io/github/stars/LaMP-Benchmark/LaMP.svg?style=social&label=Github)](https://github.com/LaMP-Benchmark/LaMP) |
 |  _HYDRA_ | HYDRA: Model Factorization Framework for Black-Box LLM Personalization | NeurIPS'24           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.02888) [![Github](https://img.shields.io/github/stars/night-chen/HYDRA.svg?style=social&label=Github)](https://github.com/night-chen/HYDRA) |
 | *TACITREE*| Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2503.07018) [![Github](https://img.shields.io/github/stars/Kaylee0501/ImplexConv.svg?style=social&label=Github)](https://github.com/Kaylee0501/ImplexConv)|
-| *LD_Agent* | Hello Again! LLM-powered Personalized Agent for Long-term Dialogue |   NAACL'25         |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.05925) [![Github](https://img.shields.io/github/stars/leolee99/LD-Agent.svg?style=social&label=Github)](https://github.com/leolee99/LD-Agent) |
 |  _Persona-DB_ | Persona-DB: Efficient Large Language Model Personalization for Response Prediction with Collaborative Data Refinement | COLING'25           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2402.11060) [![Github](https://img.shields.io/github/stars/chenkaisun/Persona-DB.svg?style=social&label=Github)](https://github.com/chenkaisun/Persona-DB) |
 |  _CFRAG_ | Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation | SIGIR'25           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2504.05731) [![Github](https://img.shields.io/github/stars/TengShi-RUC/CFRAG.svg?style=social&label=Github)](https://github.com/TengShi-RUC/CFRAG) |
 | _AP-Bots_  | Improving RAG for Personalization with Author Features and Contrastive Examples | Arxiv'25           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.18678) [![Github](https://img.shields.io/github/stars/myazann/AP-Bots.svg?style=social&label=Github)](https://github.com/myazann/AP-Bots) |
@@ -142,7 +141,8 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  _HYDRA_ | HYDRA: Model Factorization Framework for Black-Box LLM Personalization | NeurIPS'24           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.02888) [![Github](https://img.shields.io/github/stars/night-chen/HYDRA.svg?style=social&label=Github)](https://github.com/night-chen/HYDRA) |
 |  *PROPER* | PROPER: A Progressive Learning Framework for Personalized Large Language Models with Group-Level Adaptation  |      ACL'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01303) |
 |  *HomeLLaMA* | Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.08878) |
-|  *MobiEdit* | MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.arxiv.org/pdf/2506.13772) |
+|  *MobiEdit* | MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.arxiv.org/abs/2506.13772) |
+|  *CBP-Tuning* | CBP-Tuning: Efficient Local Customization for Black-box Large Language Models  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2509.12112) |
 
 
 
@@ -164,7 +164,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | :-----------: | :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: |
 | *MORLHF* | Fine-Grained Human Feedback Gives Better Rewards for Language Model Training | NeurIPS'23 |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.01693) [![Github](https://img.shields.io/github/stars/allenai/FineGrainedRLHF.svg?style=social&label=Github)](https://github.com/allenai/FineGrainedRLHF)    |
 | *Personalized Soups* | Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging | Arxiv'23 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2310.11564) [![Github](https://img.shields.io/github/stars/joeljang/RLPHF.svg?style=social&label=Github)](https://github.com/joeljang/RLPHF) |
-| *Reward Soups* | Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards | NuerIPS'23 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.04488) |
+| *Reward Soups* | Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards | NuerIPSd'23 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.04488) |
 | *MODPO*  | Beyond One-Preference-Fits-All Alignment: Multi-Objective Direct Preference Optimization | ACL'24 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2310.03708) [![Github](https://img.shields.io/github/stars/ZHZisZZ/modpo.svg?style=social&label=Github)](https://github.com/ZHZisZZ/modpo) |
 | *MOD* | Decoding-Time Language Model Alignment with Multiple Objectives | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.18853) [![Github](https://img.shields.io/github/stars/srzer/MOD.svg?style=social&label=Github)](https://github.com/srzer/MOD) |
 | *BiPO* | Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.00045) [![Github](https://img.shields.io/github/stars/CaoYuanpu/BiPO.svg?style=social&label=Github)](https://github.com/CaoYuanpu/BiPO) |
@@ -181,6 +181,11 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *DEEPER* | DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling | ACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2025.acl-long.1177.pdf)[![Github](https://img.shields.io/github/stars/sheep333c/DEEPER.svg?style=social&label=Github)](https://github.com/sheep333c/DEEPER) |
 
 
+## System (Agent)
+
+| *LD_Agent* | Hello Again! LLM-powered Personalized Agent for Long-term Dialogue |   NAACL'25         |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.05925) [![Github](https://img.shields.io/github/stars/leolee99/LD-Agent.svg?style=social&label=Github)](https://github.com/leolee99/LD-Agent) |
+| *PersonalWAB*| Large Language Models Empowered Personalized Web Agents | WWW'25 | [![Home](https://img.shields.io/badge/Home-red)](https://hongrucai.github.io/PersonalWAB/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.17236) [![Github](https://img.shields.io/github/stars/HongruCai/PersonalWAB.svg?style=social&label=Github)](https://github.com/HongruCai/PersonalWAB)|
+| *EgoMem* | EgoMem: Lifelong Memory Agent for Full-duplex Omnimodal Models | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2509.11914) |
 
 
 
@@ -233,6 +238,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |:-------------:|:-------------:|:--------------:|:------:|:--------:|
 | *HumSum* | HumSum: A Personalized Lecture Summarization Tool for Humanities Students Using LLMs | ACL Workshop'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2024.personalize-1.4.pdf) | Humanity |
 | *LearnLens* | LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop | Arxiv'25 | [![Home](https://img.shields.io/badge/Home-red)](https://learnlens.co.uk/login) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCUALVwDKNQ) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04295) | Education |
+|  | Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2509.11645) | Healthcare |
 
 ## Related Workshops
 
