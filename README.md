@@ -58,6 +58,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *RewriterSlRl* | Learning to Rewrite Prompts for Personalized Text Generation |    WWW '24   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2310.00152)  |
 |  _DPL_ | Measuring What Makes You Unique: Difference-Aware User Modeling for Enhancing LLM Personalization |   ACL'25 Findings         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.02450) [![Github](https://img.shields.io/github/stars/SnowCharmQ/DPL.svg?style=social&label=Github)](https://github.com/SnowCharmQ/DPL) |
 | *R2P* |      Reasoning Meets Personalization: Unleashing the Potential of Large Reasoning Model for Personalized Generation      | Arxiv'25 |                        [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2505.17571)             |
+| *EXP3RT* |      Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation      | SIGIR'25 |                        [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2408.06276)        [![Github](https://img.shields.io/github/stars/MatthewKKai/MaLP.svg?style=social&label=Github)](https://github.com/jieyong99/EXP3RT)     |
 
 
 ### Retrieval-Augmented Prompting (RAG)
