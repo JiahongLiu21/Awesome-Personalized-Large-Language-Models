@@ -86,6 +86,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | _RPM_  | LLMs Think, But Not In Your Flow: Reasoning-Level Personalization for Black-Box Large Language Models | Arxiv'25           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2505.21082)|
 | _PRIME_  | Large Language Model Personalization with Cognitive Memory and Thought Processes | Arxiv'25           |         [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2507.04607) |
 | _PersonaAgent_  | PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time | Arxiv'25           |         [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2506.06254) |
+| _Mem0_  | Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory | Arxiv'25           |         [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2504.19413) [![Github](https://img.shields.io/github/stars/bbuing9/Fermi.svg?style=social&label=Github)](https://mem0.ai/research)|
 
 
 ### Soft-Fused Prompting
@@ -239,6 +240,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *REALTALK* | REALTALK: A 21-Day Real-World Dataset for Long-Term Conversation | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2502.13270) [![Github](https://img.shields.io/github/stars/danny911kr/REALTALK.svg?style=social&label=Github)](https://github.com/danny911kr/REALTALK) |
 | *MemBench* | MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents | ACL'25 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2506.21605) [![Github](https://img.shields.io/github/stars/import-myself/Membench.svg?style=social&label=Github)](https://github.com/import-myself/Membench) |
 | *PersonaMem* | Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2504.14225) [![Github](https://img.shields.io/github/stars/danny911kr/REALTALK.svg?style=social&label=Github)](https://github.com/bowen-upenn/PersonaMem) |
+| *MemoryAgentBench* | Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions | Arxiv'25 | [![Hugging Face Dataset Hub](https://img.shields.io/badge/Hugging%20Face-Dataset%20Hub-%23D50032)](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.02450) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.05257) [![Github](https://img.shields.io/github/stars/danny911kr/REALTALK.svg?style=social&label=Github)](https://github.com/HUST-AI-HYZ/MemoryAgentBench)  |
 
 ## Applications
 
