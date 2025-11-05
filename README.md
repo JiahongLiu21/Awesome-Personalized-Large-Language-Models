@@ -112,6 +112,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  _CoS_ | CoS: Enhancing Personalization and Mitigating Bias with Context Steering |   ICLR'25         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2405.01768) [![Github](https://img.shields.io/github/stars/sashrikap/context-steering.svg?style=social&label=Github)](https://github.com/sashrikap/context-steering) |
 | *StyleVector* | Personalized Text Generation with Contrastive Activation Steering | ACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.05213) |
 | *CoSteer* | CoSteer: Collaborative Decoding-Time Personalization via Local Delta Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04756) |
+| *Fints* | Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained Instance-Tailored Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2510.27206) [![Github](https://img.shields.io/github/stars/KounianhuaDu/Fints.svg?style=social&label=Github)](https://github.com/KounianhuaDu/Fints) |
 
 
 ## Personalized Adaptation
@@ -144,7 +145,8 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  _HYDRA_ | HYDRA: Model Factorization Framework for Black-Box LLM Personalization | NeurIPS'24           |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.02888) [![Github](https://img.shields.io/github/stars/night-chen/HYDRA.svg?style=social&label=Github)](https://github.com/night-chen/HYDRA) |
 |  *PROPER* | PROPER: A Progressive Learning Framework for Personalized Large Language Models with Group-Level Adaptation  |      ACL'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01303) |
 |  *HomeLLaMA* | Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.08878) |
-|  *MobiEdit* | MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.arxiv.org/abs/2506.13772) |
+|  *MobiEdit* | MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs  |        Arxiv'25    | [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.arxiv.org/abs/2506.13772) |
+|    *CM*     | Unlearning Misalignment for Personalized LLM Adaptation via Instance-Response-Dependent Discrepancies | TMLR(09/2025), Journal Submissions | [![Paper](https://img.shields.io/badge/Paper-blue)](https://openreview.net/pdf?id=njE3swFBMc) |
 
 
 
@@ -240,7 +242,10 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *REALTALK* | REALTALK: A 21-Day Real-World Dataset for Long-Term Conversation | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2502.13270) [![Github](https://img.shields.io/github/stars/danny911kr/REALTALK.svg?style=social&label=Github)](https://github.com/danny911kr/REALTALK) |
 | *MemBench* | MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents | ACL'25 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2506.21605) [![Github](https://img.shields.io/github/stars/import-myself/Membench.svg?style=social&label=Github)](https://github.com/import-myself/Membench) |
 | *PersonaMem* | Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2504.14225) [![Github](https://img.shields.io/github/stars/danny911kr/REALTALK.svg?style=social&label=Github)](https://github.com/bowen-upenn/PersonaMem) |
-| *MemoryAgentBench* | Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions | Arxiv'25 | [![Hugging Face Dataset Hub](https://img.shields.io/badge/Hugging%20Face-Dataset%20Hub-%23D50032)](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.02450) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.05257) [![Github](https://img.shields.io/github/stars/danny911kr/REALTALK.svg?style=social&label=Github)](https://github.com/HUST-AI-HYZ/MemoryAgentBench)  |
+| *MemoryAgentBench* | Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions | Arxiv'25 | [![Hugging Face Dataset Hub](https://img.shields.io/badge/Hugging%20Face-Dataset%20Hub-%23D50032)](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench)  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.05257) [![Github](https://img.shields.io/github/stars/danny911kr/REALTALK.svg?style=social&label=Github)](https://github.com/HUST-AI-HYZ/MemoryAgentBench)  |
+| *PersonaLens* | PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2506.09902) [![Github](https://img.shields.io/github/stars/amazon-science/PersonaLens.svg?style=social&label=Github)](https://github.com/amazon-science/PersonaLens) |
+| *Theanine* | Towards Lifelong Dialogue Agents via Timeline-based Memory Management | NAACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2025.naacl-long.435.pdf) [![Demo](https://img.shields.io/badge/HuggingFace-Demo-green)](https://huggingface.co/spaces/ResearcherScholar/Theanine) |
+
 
 ## Applications
 
