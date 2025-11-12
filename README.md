@@ -87,6 +87,8 @@ This repository focuses on personalized large language models (LLMs) that levera
 | _PRIME_  | Large Language Model Personalization with Cognitive Memory and Thought Processes | Arxiv'25           |         [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2507.04607) |
 | _PersonaAgent_  | PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time | Arxiv'25           |         [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2506.06254) |
 | _Mem0_  | Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory | Arxiv'25           |         [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2504.19413) [![Github](https://img.shields.io/github/stars/bbuing9/Fermi.svg?style=social&label=Github)](https://mem0.ai/research)|
+| *MemWeaver* | MemWeaver: A Hierarchical Memory from Textual Interactive Behaviors for Personalized Generation | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2510.07713) [![Github](https://img.shields.io/github/stars/fishsure/MemWeaver.svg?style=social&label=Github)](https://github.com/fishsure/MemWeaver) |
+
 
 
 ### Soft-Fused Prompting
@@ -113,6 +115,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *StyleVector* | Personalized Text Generation with Contrastive Activation Steering | ACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.05213) |
 | *CoSteer* | CoSteer: Collaborative Decoding-Time Personalization via Local Delta Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04756) |
 | *Fints* | Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained Instance-Tailored Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2510.27206) [![Github](https://img.shields.io/github/stars/KounianhuaDu/Fints.svg?style=social&label=Github)](https://github.com/KounianhuaDu/Fints) |
+| *SteerX* | SteerX: Disentangled Steering for LLM Personalization | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2510.22256) |
 
 
 ## Personalized Adaptation
@@ -147,6 +150,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *HomeLLaMA* | Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.08878) |
 |  *MobiEdit* | MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs  |        Arxiv'25    | [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.arxiv.org/abs/2506.13772) |
 |    *CM*     | Unlearning Misalignment for Personalized LLM Adaptation via Instance-Response-Dependent Discrepancies | TMLR(09/2025), Journal Submissions | [![Paper](https://img.shields.io/badge/Paper-blue)](https://openreview.net/pdf?id=njE3swFBMc) |
+| *Profile-to-PEFT* | Instant Personalized Large Language Model Adaptation via Hypernetwork | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2510.16282) [![Github](https://img.shields.io/github/stars/zhaoxuan/p2p.svg?style=social&label=Github)](https://zhaoxuan.info/p2p.github.io/) |
 
 
 
@@ -154,7 +158,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 ## Personalized Alignment
 
 ### Data Construction
-|    Name     |                         Paper Title                          |     Published At     |                             Link                             |
+|    Method     |                         Paper Title                          |     Published At     |                             Link                             |
 | :-----------: | :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: |
 | *PLUM* | On the Way to LLM Personalization: Learning to Remember User Conversations | Arxiv'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2411.13405) |
 |      | Aligning to Thousands of Preferences via System Message Generalization | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2405.17977) [![Github](https://img.shields.io/github/stars/allenai/FineGrainedRLHF.svg?style=social&label=Github)](https://github.com/kaistAI/Janus) |
@@ -184,6 +188,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *RLPA* | Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2505.15456) |
 | *PROSE* | Aligning LLMs by Predicting Preferences from User Writing Samples | ICML'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2505.23815) |
 | *DEEPER* | DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling | ACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2025.acl-long.1177.pdf)[![Github](https://img.shields.io/github/stars/sheep333c/DEEPER.svg?style=social&label=Github)](https://github.com/sheep333c/DEEPER) |
+| *NextQuill* | NextQuill: Causal Preference Modeling for Enhancing LLM Personalization | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2506.02368) |
 
 
 ## System (Agent)
@@ -245,6 +250,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *MemoryAgentBench* | Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions | Arxiv'25 | [![Hugging Face Dataset Hub](https://img.shields.io/badge/Hugging%20Face-Dataset%20Hub-%23D50032)](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench)  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.05257) [![Github](https://img.shields.io/github/stars/danny911kr/REALTALK.svg?style=social&label=Github)](https://github.com/HUST-AI-HYZ/MemoryAgentBench)  |
 | *PersonaLens* | PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2506.09902) [![Github](https://img.shields.io/github/stars/amazon-science/PersonaLens.svg?style=social&label=Github)](https://github.com/amazon-science/PersonaLens) |
 | *Theanine* | Towards Lifelong Dialogue Agents via Timeline-based Memory Management | NAACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2025.naacl-long.435.pdf) [![Demo](https://img.shields.io/badge/HuggingFace-Demo-green)](https://huggingface.co/spaces/ResearcherScholar/Theanine) |
+| *PrefDisco* | Personalized Reasoning: Just-in-Time Personalization and Why LLMs Fail at It | Arxiv'25 | [![Hugging Face Dataset Hub](https://img.shields.io/badge/Hugging%20Face-Dataset%20Hub-%23D50032)](https://huggingface.co/collections/stellalisy/personalized-reasoning) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2510.00177) [![Github](https://img.shields.io/github/stars/stellalisy/PrefDisco.svg?style=social&label=Github)](https://github.com/stellalisy/PrefDisco) |
 
 
 ## Applications
