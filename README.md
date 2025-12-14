@@ -35,6 +35,10 @@ This repository focuses on personalized large language models (LLMs) that levera
         <li><a href="#analysis">Analysis</a></li>
         <li><a href="#benchmark">Benchmark</a></li>
         <li><a href="#applications">Applications</a></li>
+        <li><a href="#trustworthiness">Trustworthiness</a></li>
+<ul>
+  <li><a href="#watermarking">Watermarking</a></li>
+</ul>
       </ul>
     </td>
     <td>
@@ -106,6 +110,8 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PPlug*  | LLMs + Persona-Plug = Personalized LLMs |     ACL'25       |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2409.11901) [![Github](https://img.shields.io/github/stars/rucliujn/PPlug.svg?style=social&label=Github)](https://github.com/rucliujn/PPlug) |
 | *DEP*  | Latent Inter-User Difference Modeling for LLM Personalization |     EMNLP'25       |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.20849) [![Github](https://img.shields.io/github/stars/SnowCharmQ/DEP.svg?style=social&label=Github)](https://github.com/SnowCharmQ/DEP) |
 |  *CBP-Tuning* | CBP-Tuning: Efficient Local Customization for Black-box Large Language Models  |        Arxiv'25    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2509.12112) |
+| *UniCTokens*  | UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/116748) |
+
 
 ### Contrastive Prompting
 
@@ -189,6 +195,9 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PROSE* | Aligning LLMs by Predicting Preferences from User Writing Samples | ICML'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2505.23815) |
 | *DEEPER* | DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling | ACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2025.acl-long.1177.pdf)[![Github](https://img.shields.io/github/stars/sheep333c/DEEPER.svg?style=social&label=Github)](https://github.com/sheep333c/DEEPER) |
 | *NextQuill* | NextQuill: Causal Preference Modeling for Enhancing LLM Personalization | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2506.02368) |
+| *RePIC* | RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/119231) [![Github](https://img.shields.io/github/stars/oyt9306/RePIC.svg?style=social&label=Github)](https://github.com/oyt9306/RePIC) |
+| *UserAlign* | Inference-Time Personalized Alignment with a Few User Preference Queries | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/116519) |
+| *Curiosity-RLHF* | Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/115588) |
 
 
 ## System (Agent)
@@ -202,6 +211,15 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *LD_Agent* | Hello Again! LLM-powered Personalized Agent for Long-term Dialogue |   NAACL'25         |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.05925) [![Github](https://img.shields.io/github/stars/leolee99/LD-Agent.svg?style=social&label=Github)](https://github.com/leolee99/LD-Agent) |
 | *PersonalWAB*| Large Language Models Empowered Personalized Web Agents | WWW'25 | [![Home](https://img.shields.io/badge/Home-red)](https://hongrucai.github.io/PersonalWAB/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.17236) [![Github](https://img.shields.io/github/stars/HongruCai/PersonalWAB.svg?style=social&label=Github)](https://github.com/HongruCai/PersonalWAB)|
 | *EgoMem* | EgoMem: Lifelong Memory Agent for Full-duplex Omnimodal Models | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2509.11914) |
+
+
+## Trustworthiness
+
+### Watermarking
+
+|  Method   | Paper Title | Published At | Link |
+| :-------: | :---------: | :----------: | :--: |
+| *SAEMark* | SAEMark: Shaping Signatures with Adaptable Encoder for Robust and Imperceptible Watermarking | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/115585) |
 
 
 
@@ -251,6 +269,10 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PersonaLens* | PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2506.09902) [![Github](https://img.shields.io/github/stars/amazon-science/PersonaLens.svg?style=social&label=Github)](https://github.com/amazon-science/PersonaLens) |
 | *Theanine* | Towards Lifelong Dialogue Agents via Timeline-based Memory Management | NAACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2025.naacl-long.435.pdf) [![Demo](https://img.shields.io/badge/HuggingFace-Demo-green)](https://huggingface.co/spaces/ResearcherScholar/Theanine) |
 | *PrefDisco* | Personalized Reasoning: Just-in-Time Personalization and Why LLMs Fail at It | Arxiv'25 | [![Hugging Face Dataset Hub](https://img.shields.io/badge/Hugging%20Face-Dataset%20Hub-%23D50032)](https://huggingface.co/collections/stellalisy/personalized-reasoning) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2510.00177) [![Github](https://img.shields.io/github/stars/stellalisy/PrefDisco.svg?style=social&label=Github)](https://github.com/stellalisy/PrefDisco) |
+| *MMPB* | MMPB: It’s Time for Multi-Modal Personalization | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/121766) |
+| *UnifyBench* | UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens (introduces UnifyBench) | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/116748) |
+| *AgentRecBench* | AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/121525) [![Hugging Face Dataset Hub](https://img.shields.io/badge/Hugging%20Face-Dataset%20Hub-%23D50032)](https://huggingface.co/datasets/SGJQovo/AgentRecBench) |
+
 
 
 ## Applications
@@ -260,6 +282,8 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *HumSum* | HumSum: A Personalized Lecture Summarization Tool for Humanities Students Using LLMs | ACL Workshop'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2024.personalize-1.4.pdf) | Humanity |
 | *LearnLens* | LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop | Arxiv'25 | [![Home](https://img.shields.io/badge/Home-red)](https://learnlens.co.uk/login) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCUALVwDKNQ) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04295) | Education |
 |  | Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2509.11645) | Healthcare |
+| *AdImpact-RL* | Learning Personalized Ad Impact via Contextual Reinforcement Learning under Delayed Rewards | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/118550) | Advertising |
+| *FreeCure* | Foundation Cures Personalization: Improving Personalized Models’ Prompt Consistency via Hidden Foundation Knowledge | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/118648) [![Home](https://img.shields.io/badge/Home-red)](https://yiyangcai.github.io) | Diffusion Personalization |
 
 ## Related Workshops
 
