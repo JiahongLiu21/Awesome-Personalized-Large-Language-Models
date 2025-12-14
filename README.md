@@ -32,13 +32,13 @@ This repository focuses on personalized large language models (LLMs) that levera
           <li><a href="#data-construction">Data</a></li>
           <li><a href="#optimization">Optimization</a></li>
         </ul>
+        <li><a href="#trustworthiness">Trustworthiness</a></li>
+        <ul>
+          <li><a href="#watermarking">Watermarking</a></li>
+        </ul>
         <li><a href="#analysis">Analysis</a></li>
         <li><a href="#benchmark">Benchmark</a></li>
         <li><a href="#applications">Applications</a></li>
-        <li><a href="#trustworthiness">Trustworthiness</a></li>
-<ul>
-  <li><a href="#watermarking">Watermarking</a></li>
-</ul>
       </ul>
     </td>
     <td>
