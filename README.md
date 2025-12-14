@@ -136,6 +136,8 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *LM-P / CLS-P*  | Personalized Large Language Models |           SENTIRE@   ICDM'24 |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2402.09269) |
 | *Review-LLM*  | Review-LLM: Harnessing Large Language Models for Personalized Review Generation |      Arxiv'24      |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2306.07206)  |
 |  *MiLP* | Personalized LLM Response Generation with Parameterized Memory Injection |        Arxiv'24    |                     [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2404.03565) [![Github](https://img.shields.io/github/stars/MatthewKKai/MiLP.svg?style=social&label=Github)](https://github.com/MatthewKKai/MiLP) |
+| *IGD* | IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/115119) [![Github](https://img.shields.io/github/stars/ZJLin2oo1/IGD.svg?style=social&label=Github)](https://github.com/ZJLin2oo1/IGD) |
+
 
 
 
