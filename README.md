@@ -159,6 +159,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 |  *MobiEdit* | MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs  |        Arxiv'25    | [![Paper](https://img.shields.io/badge/Paper-blue)](https://www.arxiv.org/abs/2506.13772) |
 |    *CM*     | Unlearning Misalignment for Personalized LLM Adaptation via Instance-Response-Dependent Discrepancies | TMLR(09/2025), Journal Submissions | [![Paper](https://img.shields.io/badge/Paper-blue)](https://openreview.net/pdf?id=njE3swFBMc) |
 | *Profile-to-PEFT* | Instant Personalized Large Language Model Adaptation via Hypernetwork | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2510.16282) [![Github](https://img.shields.io/github/stars/zhaoxuan/p2p.svg?style=social&label=Github)](https://zhaoxuan.info/p2p.github.io/) |
+| *CoMiGS* | On-Device Collaborative Language Modeling via a Mixture of Generalists and Specialists | ICML'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2409.13931) [![Github](https://img.shields.io/github/stars/epfml/CoMiGS.svg?style=social&label=Github)](https://github.com/epfml/CoMiGS)|
 
 
 
