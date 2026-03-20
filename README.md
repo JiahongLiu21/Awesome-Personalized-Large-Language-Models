@@ -275,7 +275,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *MMPB* | MMPB: It’s Time for Multi-Modal Personalization | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/121766) |
 | *UnifyBench* | UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens (introduces UnifyBench) | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/116748) |
 | *AgentRecBench* | AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/121525) [![Hugging Face Dataset Hub](https://img.shields.io/badge/Hugging%20Face-Dataset%20Hub-%23D50032)](https://huggingface.co/datasets/SGJQovo/AgentRecBench) |
-| *BenchPreS* | BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs | arXiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2603.16557) |
+| *BenchPreS* | BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2603.16557) |
 
 
 ## Applications
