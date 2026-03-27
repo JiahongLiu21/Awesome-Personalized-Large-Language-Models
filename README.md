@@ -20,7 +20,7 @@ This repository focuses on personalized large language models (LLMs) that levera
           <li><a href="#profile-augmented-prompting-pag">Profile-Augmented</a></li>
           <li><a href="#retrieval-augmented-prompting-rag">Retrieval-Augmented</a></li>
           <li><a href="#soft-fused-prompting">Soft-Fused</a></li>
-          <li><a href="#contrastive-prompting">Contrastive</a></li>
+          <li><a href="#contrastive-prompting">Contrastive</a></li>Fdirft
         </ul>
         <li><a href="#personalized-adaptation">Personalized Adaptation</a></li>
         <ul>
@@ -191,7 +191,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *CIPHER*, *PRELUDE* | Aligning LLM Agents by Learning Latent Preference from User Edits | NeurIPS'24 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2404.15269) [![Github](https://img.shields.io/github/stars/gao-g/prelude.svg?style=social&label=Github)](https://github.com/gao-g/prelude) |
 | *CHAMELEON* | Personalize Your LLM: Fake it then Align it | NAACL'25 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.01048) |
 | *REST-PG* | Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.04167) |
-| *Drift* | Drift: Decoding-time Personalized Alignments with Implicit User Preferences | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2502.14289) |
+| *Drift* | Drift: Decoding-time Personalized Alignments with Implicit User Preferences | Arxiv'25, EMNLP Findings'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2502.14289) |
 | *PAD* | PAD: Personalized Alignment of LLMs at Decoding-Time | ICLR'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2410.04070) [![Github](https://img.shields.io/github/stars/zjuruizhechen/PAD.svg?style=social&label=Github)](https://github.com/zjuruizhechen/PAD) |
 | *Amulet* | Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs | ICLR'25 | [![Home](https://img.shields.io/badge/Home-red)](https://zowiezhang.github.io/projects/Amulet/) [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2502.19148) [![Github](https://img.shields.io/github/stars/zowiezhang/Amulet.svg?style=social&label=Github)](https://github.com/zowiezhang/Amulet) |
 | *RLPA* | Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2505.15456) |
