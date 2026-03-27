@@ -20,7 +20,7 @@ This repository focuses on personalized large language models (LLMs) that levera
           <li><a href="#profile-augmented-prompting-pag">Profile-Augmented</a></li>
           <li><a href="#retrieval-augmented-prompting-rag">Retrieval-Augmented</a></li>
           <li><a href="#soft-fused-prompting">Soft-Fused</a></li>
-          <li><a href="#contrastive-prompting">Contrastive</a></li>Fdirft
+          <li><a href="#contrastive-prompting">Contrastive</a></li>
         </ul>
         <li><a href="#personalized-adaptation">Personalized Adaptation</a></li>
         <ul>
