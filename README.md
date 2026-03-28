@@ -200,7 +200,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *NextQuill* | NextQuill: Causal Preference Modeling for Enhancing LLM Personalization | ICLR'26 (Arxiv'25) | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2506.02368) |
 | *RePIC* | RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/119231) [![Github](https://img.shields.io/github/stars/oyt9306/RePIC.svg?style=social&label=Github)](https://github.com/oyt9306/RePIC) |
 | *UserAlign* | Inference-Time Personalized Alignment with a Few User Preference Queries | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/116519) |
-| *Curiosity-RLHF* | Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/115588) |
+| *CURIO* | Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward | NeurIPS'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://neurips.cc/virtual/2025/loc/san-diego/poster/115588) |
 
 
 ## System (Agent)
