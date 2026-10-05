@@ -224,6 +224,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PerContrast / PerCE* | Rethinking Personalization in Large Language Models at the Token Level | ICML'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2603.06595) |
 | *Critique-Post-Edit* | Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning | EMNLP'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2510.18849) |
 | *PALM* | Many Preferences, Few Policies: Compact Portfolios for Multi-Objective LLM Alignment | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2604.04144) |
+| *GRASP* | Rubric-Aware On-Policy Self-Distillation for LLM Personalization | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2609.35262) [![Github](https://img.shields.io/github/stars/SnowCharmQ/GRASP.svg?style=social&label=Github)](https://github.com/SnowCharmQ/GRASP) |
 
 
 ## System (Agent)
