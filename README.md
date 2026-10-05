@@ -32,6 +32,7 @@ This repository focuses on personalized large language models (LLMs) that levera
           <li><a href="#data-construction">Data</a></li>
           <li><a href="#optimization">Optimization</a></li>
         </ul>
+        <li><a href="#model-selection--routing">Model Selection / Routing</a></li>
         <li><a href="#system-agent">System (Agent)</a></li>
         <li><a href="#trustworthiness">Trustworthiness</a></li>
         <ul>
@@ -221,6 +222,13 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PerContrast / PerCE* | Rethinking Personalization in Large Language Models at the Token Level | ICML'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2603.06595) |
 | *Critique-Post-Edit* | Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning | EMNLP'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2510.18849) |
 | *PALM* | Many Preferences, Few Policies: Compact Portfolios for Multi-Objective LLM Alignment | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2604.04144) |
+
+
+## Model Selection / Routing
+
+| Method | Paper Title | Published At | Link |
+| :----: | :---------: | :----------: | :--: |
+| *PEARL (Edge LLM Selection)* | PEARL: Profile-based Explainable Agent for Edge LLM Recommendation via Latent Decomposition | SIGIR'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://doi.org/10.1145/3805712.3809957) |
 
 
 ## System (Agent)
