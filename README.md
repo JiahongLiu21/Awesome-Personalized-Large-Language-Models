@@ -32,8 +32,10 @@ This repository focuses on personalized large language models (LLMs) that levera
           <li><a href="#data-construction">Data</a></li>
           <li><a href="#optimization">Optimization</a></li>
         </ul>
-        <li><a href="#model-selection--routing">Model Selection / Routing</a></li>
         <li><a href="#system-agent">System (Agent)</a></li>
+        <ul>
+          <li><a href="#model-selection--routing">Model Selection / Routing</a></li>
+        </ul>
         <li><a href="#trustworthiness">Trustworthiness</a></li>
         <ul>
           <li><a href="#safety">Safety</a></li>
@@ -224,13 +226,6 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PALM* | Many Preferences, Few Policies: Compact Portfolios for Multi-Objective LLM Alignment | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2604.04144) |
 
 
-## Model Selection / Routing
-
-| Method | Paper Title | Published At | Link |
-| :----: | :---------: | :----------: | :--: |
-| *PEARL (Edge LLM Selection)* | PEARL: Profile-based Explainable Agent for Edge LLM Recommendation via Latent Decomposition | SIGIR'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://doi.org/10.1145/3805712.3809957) |
-
-
 ## System (Agent)
 
 
@@ -248,6 +243,13 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PersonalAgent* | Towards Proactive Personalization through Profile Customization for Individual Users in Dialogues | ACL'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2026.findings-acl.159/) |
 | *Me-Agent* | Me-Agent: A Personalized Mobile Agent with Two-Level User Habit Learning for Enhanced Interaction | ACL'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2026.findings-acl.1211/) |
 | *PDR* | Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery | SIGIR'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://doi.org/10.1145/3805712.3808609) [![Github](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/SIGIR2026_PDR.svg?style=social&label=Github)](https://github.com/Applied-Machine-Learning-Lab/SIGIR2026_PDR) |
+
+
+### Model Selection / Routing
+
+| Method | Paper Title | Published At | Link |
+| :----: | :---------: | :----------: | :--: |
+| *PEARL (Edge LLM Selection)* | PEARL: Profile-based Explainable Agent for Edge LLM Recommendation via Latent Decomposition | SIGIR'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://doi.org/10.1145/3805712.3809957) |
 
 
 ## Trustworthiness
