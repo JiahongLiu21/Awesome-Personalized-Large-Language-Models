@@ -34,6 +34,7 @@ This repository focuses on personalized large language models (LLMs) that levera
         </ul>
         <li><a href="#trustworthiness">Trustworthiness</a></li>
         <ul>
+          <li><a href="#safety">Safety</a></li>
           <li><a href="#watermarking">Watermarking</a></li>
         </ul>
         <li><a href="#analysis">Analysis</a></li>
@@ -221,6 +222,12 @@ This repository focuses on personalized large language models (LLMs) that levera
 
 ## Trustworthiness
 
+### Safety
+
+|  Keyword   | Paper Title | Published At | Link |
+| :--------: | :---------: | :----------: | :--: |
+| *Safety-Utility*  | Exploring Safety-Utility Trade-Offs in Personalized Language Models |  NAACL'25   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.11107) |
+
 ### Watermarking
 
 |  Method   | Paper Title | Published At | Link |
@@ -235,7 +242,6 @@ This repository focuses on personalized large language models (LLMs) that levera
 | :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | *Role of User Profile*  | Understanding the Role of User Profile in the Personalization of Large Language Models |  Arxiv'24           | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.17803) [![Github](https://img.shields.io/github/stars/Bingo-W/Personalisation-in-LLM.svg?style=social&label=Github)](https://github.com/Bingo-W/Personalisation-in-LLM) |
 | *RAG vs. PEFT*  | Comparing Retrieval-Augmentation and Parameter-Efficient Fine-Tuning for Privacy-Preserving Personalization of Large Language Models |  ICTIR'25           | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2409.09510) |
-| *Safety-Utility*  | Exploring Safety-Utility Trade-Offs in Personalized Language Models |  NAACL'25   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.11107) |
 | *PerCRS*  | Exploring the Impact of Personality Traits on Conversational Recommender Systems: A Simulation with Large Language Models |  Arxiv'25           | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2504.12313) |
 
 ## Metric
