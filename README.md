@@ -15,12 +15,12 @@ This repository focuses on personalized large language models (LLMs) that levera
   <tr>
     <td style="width: 60%;">
       <ul>
-        <li><a href="#personalized-prompting">Personalized Prompting</a></li>
+        <li><a href="#personalization-injection">Personalization Injection</a></li>
         <ul>
-          <li><a href="#profile-augmented-prompting-pag">Profile-Augmented</a></li>
-          <li><a href="#retrieval-augmented-prompting-rag">Retrieval-Augmented</a></li>
-          <li><a href="#soft-fused-prompting">Soft-Fused</a></li>
-          <li><a href="#contrastive-prompting">Contrastive</a></li>
+          <li><a href="#user-profile-injection-profile-augmented-prompting">User Profile Injection</a></li>
+          <li><a href="#relevant-memory-retrieval-retrieval-augmented-prompting">Relevant Memory Retrieval</a></li>
+          <li><a href="#user-information-encoding-soft-fused-prompting">User Information Encoding</a></li>
+          <li><a href="#contrastive-injection-contrastive-prompting">Contrastive Injection</a></li>
         </ul>
         <li><a href="#personalized-adaptation">Personalized Adaptation</a></li>
         <ul>
@@ -54,9 +54,13 @@ This repository focuses on personalized large language models (LLMs) that levera
 
 ---
 
-## Personalized Prompting
+## Personalization Injection
 
-### Profile-Augmented Prompting (PAG)
+This section organizes the four personalized prompting mechanisms in the [PLLM survey](https://arxiv.org/abs/2502.11528) by how user information enters generation: a textual profile, retrieved memories, encoded user representations, or a contrast between generation with and without personal context. These are input- and inference-level methods; parameter adaptation and preference alignment are catalogued separately below.
+
+### User Profile Injection (Profile-Augmented Prompting)
+
+**Inject a user profile:** Summarize user history or preferences into natural-language profile text and combine it with the current query.
 
 |  Method   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
 | :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -75,9 +79,12 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *CORE* | Toward Robust Personalized Alignment for LLMs: Mitigating Persona Drift in Multi-Turn Dialogue | EMNLP'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2609.12373) |
 | *HyperTrace* | HyperTrace: Hypothesis-Based Preference Tracing for Online LLM Personalization | EMNLP'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2609.09835) [![Github](https://img.shields.io/github/stars/jiseshen/HyperTrace.svg?style=social&label=Github)](https://github.com/jiseshen/HyperTrace) |
 | *PersonaFactor* | PersonaFactor: Preference Factors with Dynamic Selection for LLM Personalization | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.16372) |
+| *BUMP* | Self-supervised User Profile Generation for Personalization | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2606.05336) |
 
 
-### Retrieval-Augmented Prompting (RAG)
+### Relevant Memory Retrieval (Retrieval-Augmented Prompting)
+
+**Retrieve relevant memories:** Select query-relevant records from a user's history or memory store and supply them as generation context.
 
 |  Method   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
 | :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -105,10 +112,13 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PURPLE* | Optimizing User Profiles via Contextual Bandits for Retrieval-Augmented LLM Personalization | ACL'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2026.acl-long.1467/) |
 | *PBR* | Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval | AAAI'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/38679) [![Github](https://img.shields.io/github/stars/Zhang-Yingyi/PBR-code.svg?style=social&label=Github)](https://github.com/Zhang-Yingyi/PBR-code) |
 | *PR2* | Learning to Reason for Multi-Step Retrieval of Personal Context in Personalized Question Answering | SIGIR'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2602.19317) |
+| *PPRO* | Learning User-Aware Recall: Personalized Retrieval in Long-Term Conversational Memory | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2607.00017) |
 
 
 
-### Soft-Fused Prompting
+### User Information Encoding (Soft-Fused Prompting)
+
+**Encode user information:** Transform user data into soft representations and fuse them through an input prefix, attention, or output logits.
 
 |  Method   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
 | :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -131,11 +141,14 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *REPAIR (Preference State)* | Not All Is Lost: Repairing Lossy User Preference States of Personalization Encoders | NeurIPS'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.01270) |
 
 
-### Contrastive Prompting
+### Contrastive Injection (Contrastive Prompting)
+
+**Inject the personalization contrast:** Compare model states with and without user context, or learn a controlled approximation of their difference, then steer generation through hidden states or logits.
 
 |  Method   |                                             Paper Title                                              |   Published At    |                                                                                                                                  Link                                                                                                                                  |
 | :-------: | :--------------------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  _CoS_ | (CoS: Enhancing Personalization and Mitigating Bias with Context Steering) <br> Context Steering: Controllable Personalization at Inference Time |   ICLR'25         |  [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2405.01768) [![Paper](https://img.shields.io/badge/Paper-blue)](https://openreview.net/forum?id=xQCXInDq0m) [![Github](https://img.shields.io/github/stars/sashrikap/context-steering.svg?style=social&label=Github)](https://github.com/sashrikap/context-steering) |
+| *CCS* | Cautious Context Steering for Language Model Personalization | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2608.05813) |
 | *StyleVector* | Personalized Text Generation with Contrastive Activation Steering | ACL'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2503.05213) |
 | *CoSteer* | CoSteer: Collaborative Decoding-Time Personalization via Local Delta Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2507.04756) |
 | *Fints* | Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained Instance-Tailored Steering | Arxiv'25 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2510.27206) [![Github](https://img.shields.io/github/stars/KounianhuaDu/Fints.svg?style=social&label=Github)](https://github.com/KounianhuaDu/Fints) |
