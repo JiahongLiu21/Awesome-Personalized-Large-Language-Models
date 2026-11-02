@@ -129,6 +129,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PUMA (Prompt Migration)* | Don't Start Over: A Cost-Effective Framework for Migrating Personalized Prompts Between LLMs | AAAI'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/40805) [![Github](https://img.shields.io/github/stars/Kimagure7/Dont-Start-Over.svg?style=social&label=Github)](https://github.com/Kimagure7/Dont-Start-Over) |
 | *CoPersona* | CoPersona: Collaborative Persona Graphs for Robust LLM Personalization | KDD'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2607.01485) |
 | *REPAIR (Preference State)* | Not All Is Lost: Repairing Lossy User Preference States of Personalization Encoders | NeurIPS'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.01270) |
+| *PsPLUG* | Do Implicit Personalization and Explicit Styles Conflict? PsPLUG: A Lightweight Plug-in for Balancing Personalization and Style in Customized LLMs | EMNLP'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2026.emnlp-main.43/) |
 
 
 ### Contrastive Prompting
@@ -244,6 +245,10 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *Factorized Ranking* | Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models | NeurIPS'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2609.35695) [![Github](https://img.shields.io/github/stars/Martin-qyma/Rethinking-Personalized-Generation.svg?style=social&label=Github)](https://github.com/Martin-qyma/Rethinking-Personalized-Generation) |
 | *TTP* | Test-Time Personalization: A Diagnostic Framework and Probabilistic Fix for Scaling Failures | NeurIPS'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2605.10991) |
 | *P-Check* | P-Check: Advancing Personalized Reward Model via Learning to Generate Dynamic Checklist | ACL'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2026.acl-long.2011/) |
+| *PLF* | Persona Learning from Feedback for Personalized AI Assistants | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.38561) |
+| *CARD* | CARD: Cluster-level Adaptation with Reward-guided Decoding for Personalized Text Generation | EMNLP'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2601.06352) |
+| *VRF* | Uncertainty-Aware Variational Reward Factorization via Probabilistic Preference Bases for LLM Personalization | COLM'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2604.00997) [![Github](https://img.shields.io/github/stars/Gyu-Seok-Lee/VRF_COLM26.svg?style=social&label=Github)](https://github.com/Gyu-Seok-Lee/VRF_COLM26) |
+| *Jev-DLC* | Jev-DLC: Decision-Level Continual Learning from Typed Feedback | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.31521) |
 
 
 ## System (Agent)
@@ -289,6 +294,9 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *PS-Bench* | When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents | ACL'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2026.acl-long.1260/) |
 | *FPPS* | When Personalization Misleads: Understanding and Mitigating Hallucinations in Personalized LLMs | ACL'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2026.findings-acl.395/) |
 | *REPAIR (Privacy) / P3Bench* | Personalized Privacy Control in LLMs via Attention Head Intervention | EMNLP'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2608.21209) |
+| *Disclosure Loop* | Disclosure Begets Disclosure: A Self-Reinforcing Privacy Loop in LLM Agents with Persistent Memory | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.28315) |
+| *PRISM (Personalized Safety) / MPS-Bench* | When Seeing Overrides Knowing: Visual Dominance and Deferral-Based Method for Personalized Safety in VLMs | COLM'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2609.04281) |
+| *PRISK* | Evaluating the Hidden Costs of Personalization in Large Language Models | EMNLP'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2026.emnlp-main.679/) |
 
 ### Watermarking
 
@@ -311,6 +319,9 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *Personalized vs. Aggregated Preferences* | Position: Large Language Models Should Learn Personalized Rather Than Aggregated Human Preferences | ICML'26 Position | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2606.07629) |
 | *Context-Sufficiency Frontier* | When More Data Is Not Enough: The Context-Sufficiency Frontier in Generative AI Personalization | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.00654) |
 | *High-Stakes Personalization* | High-Stakes Personalization: Rethinking LLM Customization for Individual Investor Decision-Making | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2604.04300) |
+| *MoE Personalization* | Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.22127) |
+| *Longitudinal Personalization* | Tailored to you: longitudinal effects of personalising language models | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2609.20077) |
+| *User-Governed Personalization* | LLM Agents Enable User-Governed Personalization Beyond Platform Boundaries | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2605.09794) |
 
 ## Metric
 
@@ -321,6 +332,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *ExPerT* | ExPerT: Effective and Explainable Evaluation of Personalized Long-Form Text Generation |  ACL'25 Findings   | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.14956) [![Github](https://img.shields.io/github/stars/alirezasalemi7/ExPerT.svg?style=social&label=Github)](https://github.com/alirezasalemi7/ExPerT) |
 | *PARL* | Preference-Aware Rubric Learning for Personalized Evaluation | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2605.31545) [![Github](https://img.shields.io/github/stars/SnowCharmQ/PARL.svg?style=social&label=Github)](https://github.com/SnowCharmQ/PARL) |
 | *Personalized Benchmarking* | Personalized Benchmarking: Evaluating LLMs by Individual Preferences | ACL'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2026.findings-acl.31/) |
+| *ConQual-Audit* | Neither Over- nor Under-Constrained: Evaluating LLM Personalization under a Constraint Qualification Audit | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.25676) |
 
 
 ## Benchmark
@@ -373,6 +385,11 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *Behavior2Trip* | Behavior2Trip: Towards Personalized Travel Planning via User Behavior Trajectory | EMNLP'26 Findings | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2608.26807) [![Github](https://img.shields.io/github/stars/BUAA-IRIP-LLM/Behavior2Trip.svg?style=social&label=Github)](https://github.com/BUAA-IRIP-LLM/Behavior2Trip) |
 | *Latent Information Discovery* | Do LLMs Recognize Your Latent Preferences? A Benchmark for Latent Information Discovery in Personalized Interaction | COLM'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2510.17132) |
 | *IPQA* | IPQA: A Benchmark for Core Intent Identification in Personalized Question Answering | SIGIR'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2510.23536) [![Github](https://img.shields.io/github/stars/jieyong99/IPQA.svg?style=social&label=Github)](https://github.com/jieyong99/IPQA) |
+| *PCA-Bench* | Beyond Preference Following: Benchmarking Profile-Query Arbitration in Personalized Text Transformation | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.39550) |
+| *Preference Epistemic Uncertainty* | Adaptive Personalization Under Preference Epistemic Uncertainty | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.40930) |
+| *PrefDiag-Bench* | Diagnosing Personalization Failures in Mobile GUI Agents | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.30573) |
+| *CIDER* | CIDER: A Dataset of Contextual Disclosure Boundaries for Privacy Preference Alignment | COLM'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2608.09164) [![Github](https://img.shields.io/github/stars/PEACH-Research-Lab/CIDER.svg?style=social&label=Github)](https://github.com/PEACH-Research-Lab/CIDER) |
+| *MemBubble* | MemBubble: Benchmarking How Agent Memory Shapes LLM Response Diversity | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.25127) |
 
 
 ## Applications
@@ -387,6 +404,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *ParseJargon* | ParseJargon: Personalized Real-time Jargon Support in Online Meetings | ACL'26 Demo | [![Paper](https://img.shields.io/badge/Paper-blue)](https://aclanthology.org/2026.acl-demo.61/) [![Github](https://img.shields.io/github/stars/yifansong98/ParseJargon.svg?style=social&label=Github)](https://github.com/yifansong98/ParseJargon) | Meeting Assistance |
 | *PsyEvo* | PsyEvo: A Personalized Counseling Agent That Self-Evolves at Test Time | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.02885) | Healthcare |
 | *PEARL (Image Generation)* | Personalized Image Generation with Reasoning and Reflection | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.00737) | Image Generation |
+| *PREFER* | PREFER: Personalized Review Summarization with Online Preference Learning | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2605.05911) | Review Summarization |
 
 ## Related Workshops
 
