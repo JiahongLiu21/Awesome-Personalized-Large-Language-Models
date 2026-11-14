@@ -275,6 +275,7 @@ This repository focuses on personalized large language models (LLMs) that levera
 | *InTU* | Inferring the Unspoken: Aligning Embodied Agents with Implicit Preferences | EMNLP'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2502.00858) |
 | *PAMO / MediateRec* | Personal-Agent Mediated Recommendation with Cross-Platform User History | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.07588) |
 | *Personalization Matters* | Personalization Matters: Long-Horizon Conversation Agent with User-Centric Information in Online Shopping Interactions | AACL-IJCNLP'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2610.11375) [![Github](https://img.shields.io/github/stars/RenaGao/Multimodel_RAG_Indexing.svg?style=social&label=Github)](https://github.com/RenaGao/Multimodel_RAG_Indexing) |
+| *MixUA*, *CrossLearnBench* | Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction | arXiv'26 | [![Paper](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2611.10439) |
 
 
 ### Model Selection / Routing
